@@ -4,7 +4,7 @@
 
 A reproducible personal experiment by Guilin Zhang: run OpenBMB's MiniCPM-OCR on synthetic invoice regions, check the result with simple rules and MiniCPM-OCR Jev, and measure the extra human review each policy creates.
 
-[Interactive lab](https://huggingface.co/spaces/guilindev/document-verification-lab) · [Evidence JSON](site/evidence.json) · [Frozen experiment design](EXPERIMENT.md) · [Results](results/summary.json)
+[Interactive lab](https://huggingface.co/spaces/guilindev/document-verification-lab) · [90-second walkthrough](https://huggingface.co/spaces/guilindev/document-verification-lab/resolve/main/walkthrough.mp4) · [Evidence JSON](site/evidence.json) · [Frozen experiment design](EXPERIMENT.md) · [Results](results/summary.json)
 
 ## What the experiment found
 
