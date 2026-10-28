@@ -1,0 +1,91 @@
+1
+00:00:00,643 --> 00:00:03,860
+An invoice can pass a calculation check and still contain the wrong
+
+2
+00:00:03,895 --> 00:00:07,899
+numbers I built Document Verification Lab to see what an independent
+
+3
+00:00:07,934 --> 00:00:11,742
+visual check adds to document automation Start with this generated
+
+4
+00:00:11,777 --> 00:00:16,302
+invoice and its payment details For a controlled stress test I multiply
+
+5
+00:00:16,337 --> 00:00:20,087
+every amount by ten Subtotal shipping and tax still add up to
+
+6
+00:00:20,122 --> 00:00:24,277
+the total so the arithmetic check passes Comparing the extracted values
+
+7
+00:00:24,312 --> 00:00:29,578
+with the original page reveals the problem OpenBMB's MiniCPM OCR Jev
+
+8
+00:00:29,612 --> 00:00:33,142
+takes the source image candidate text and a rendered copy of that
+
+9
+00:00:33,177 --> 00:00:37,726
+text Its two-billion-parameter classifier returns a consistency score
+
+10
+00:00:37,761 --> 00:00:41,696
+Higher means stronger predicted agreement with the pixels Here the score
+
+11
+00:00:41,731 --> 00:00:45,064
+drops from about zero point nine eight to zero point zero zero
+
+12
+00:00:45,099 --> 00:00:48,987
+seven I also ran real OCR on one hundred and twenty generated
+
+13
+00:00:49,022 --> 00:00:53,501
+invoices Forty set the review threshold eighty were held out Rules
+
+14
+00:00:53,536 --> 00:00:57,540
+caught all three test errors Adding the verifier sent thirteen correct
+
+15
+00:00:57,575 --> 00:01:01,418
+results to review without catching another error The separate stress
+
+16
+00:01:01,453 --> 00:01:04,809
+tests tell a different story All twenty-four internally consistent
+
+17
+00:01:04,844 --> 00:01:09,288
+currency and amount changes passed the rules The visual verifier flagged
+
+18
+00:01:09,323 --> 00:01:13,084
+every one That gives us a specific capability to investigate on
+
+19
+00:01:13,119 --> 00:01:17,147
+representative documents For supplier-invoice workflows I would keep the
+
+20
+00:01:17,182 --> 00:01:21,163
+source evidence attached measure the extra errors caught per review and
+
+21
+00:01:21,198 --> 00:01:24,913
+check purchase orders separately You can inspect every case and change
+
+22
+00:01:24,948 --> 00:01:28,536
+the threshold in the open lab The code inputs and results are
+
+23
+00:01:28,571 --> 00:01:29,311
+public

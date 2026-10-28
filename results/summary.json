@@ -1,0 +1,506 @@
+{
+  "operating_point": {
+    "threshold": 0.9799765348434449,
+    "review_when": "rule failure OR score unavailable OR score < threshold",
+    "calibration_n": 40,
+    "target_review_fraction": 0.2,
+    "actual_calibration_reviewed": 8,
+    "source_ids": [
+      "invoice-000",
+      "invoice-001",
+      "invoice-002",
+      "invoice-003",
+      "invoice-004",
+      "invoice-005",
+      "invoice-006",
+      "invoice-007",
+      "invoice-008",
+      "invoice-009",
+      "invoice-010",
+      "invoice-011",
+      "invoice-012",
+      "invoice-013",
+      "invoice-014",
+      "invoice-015",
+      "invoice-016",
+      "invoice-017",
+      "invoice-018",
+      "invoice-019",
+      "invoice-020",
+      "invoice-021",
+      "invoice-022",
+      "invoice-023",
+      "invoice-024",
+      "invoice-025",
+      "invoice-026",
+      "invoice-027",
+      "invoice-028",
+      "invoice-029",
+      "invoice-030",
+      "invoice-031",
+      "invoice-032",
+      "invoice-033",
+      "invoice-034",
+      "invoice-035",
+      "invoice-036",
+      "invoice-037",
+      "invoice-038",
+      "invoice-039"
+    ],
+    "selection": "largest observed score boundary within floor(20% * n), keeping ties together; no test labels used"
+  },
+  "natural_all": {
+    "n": 120,
+    "errors": 6,
+    "reviewed": 6,
+    "accepted": 114,
+    "errors_caught": 6,
+    "errors_accepted": 0,
+    "correct_reviewed": 0,
+    "accepted_error_rate": 0.0,
+    "accepted_error_wilson95": [
+      0,
+      0.03259969314741144
+    ],
+    "review_ids": [
+      "invoice-007",
+      "invoice-017",
+      "invoice-037",
+      "invoice-097",
+      "invoice-107",
+      "invoice-117"
+    ]
+  },
+  "calibration_rules": {
+    "n": 40,
+    "errors": 3,
+    "reviewed": 3,
+    "accepted": 37,
+    "errors_caught": 3,
+    "errors_accepted": 0,
+    "correct_reviewed": 0,
+    "accepted_error_rate": 0.0,
+    "accepted_error_wilson95": [
+      0,
+      0.09406095745514377
+    ],
+    "review_ids": [
+      "invoice-007",
+      "invoice-017",
+      "invoice-037"
+    ]
+  },
+  "calibration_hybrid": {
+    "n": 40,
+    "errors": 3,
+    "reviewed": 8,
+    "accepted": 32,
+    "errors_caught": 3,
+    "errors_accepted": 0,
+    "correct_reviewed": 5,
+    "accepted_error_rate": 0.0,
+    "accepted_error_wilson95": [
+      0,
+      0.1071827150573635
+    ],
+    "review_ids": [
+      "invoice-004",
+      "invoice-007",
+      "invoice-008",
+      "invoice-014",
+      "invoice-017",
+      "invoice-027",
+      "invoice-034",
+      "invoice-037"
+    ]
+  },
+  "test_rules": {
+    "n": 80,
+    "errors": 3,
+    "reviewed": 3,
+    "accepted": 77,
+    "errors_caught": 3,
+    "errors_accepted": 0,
+    "correct_reviewed": 0,
+    "accepted_error_rate": 0.0,
+    "accepted_error_wilson95": [
+      3.469446951953614e-18,
+      0.047520088667220836
+    ],
+    "review_ids": [
+      "invoice-097",
+      "invoice-107",
+      "invoice-117"
+    ]
+  },
+  "test_hybrid": {
+    "n": 80,
+    "errors": 3,
+    "reviewed": 16,
+    "accepted": 64,
+    "errors_caught": 3,
+    "errors_accepted": 0,
+    "correct_reviewed": 13,
+    "accepted_error_rate": 0.0,
+    "accepted_error_wilson95": [
+      0,
+      0.056626022971156334
+    ],
+    "review_ids": [
+      "invoice-044",
+      "invoice-047",
+      "invoice-054",
+      "invoice-057",
+      "invoice-058",
+      "invoice-064",
+      "invoice-067",
+      "invoice-074",
+      "invoice-077",
+      "invoice-084",
+      "invoice-094",
+      "invoice-097",
+      "invoice-104",
+      "invoice-107",
+      "invoice-114",
+      "invoice-117"
+    ]
+  },
+  "test_random_same_review_budget": {
+    "reviewed": 16,
+    "expected_errors_caught": 0.6,
+    "simulation95_errors_caught": [
+      0,
+      2
+    ],
+    "draws": 10000,
+    "seed": 20261028
+  },
+  "stress_by_mutation": {
+    "reference": {
+      "n": 12,
+      "min_score": 0.9844563603401184,
+      "max_score": 0.9899863600730896,
+      "median_score": 0.9877554774284363,
+      "rules": {
+        "n": 12,
+        "errors": 0,
+        "reviewed": 0,
+        "accepted": 12,
+        "errors_caught": 0,
+        "errors_accepted": 0,
+        "correct_reviewed": 0,
+        "accepted_error_rate": 0.0,
+        "accepted_error_wilson95": [
+          0,
+          0.2425007574992425
+        ],
+        "review_ids": []
+      },
+      "hybrid": {
+        "n": 12,
+        "errors": 0,
+        "reviewed": 0,
+        "accepted": 12,
+        "errors_caught": 0,
+        "errors_accepted": 0,
+        "correct_reviewed": 0,
+        "accepted_error_rate": 0.0,
+        "accepted_error_wilson95": [
+          0,
+          0.2425007574992425
+        ],
+        "review_ids": []
+      }
+    },
+    "total_digit": {
+      "n": 12,
+      "min_score": 7.265816037715922e-08,
+      "max_score": 8.139691999531351e-06,
+      "median_score": 8.094889949461503e-07,
+      "rules": {
+        "n": 12,
+        "errors": 12,
+        "reviewed": 12,
+        "accepted": 0,
+        "errors_caught": 12,
+        "errors_accepted": 0,
+        "correct_reviewed": 0,
+        "accepted_error_rate": null,
+        "accepted_error_wilson95": null,
+        "review_ids": [
+          "invoice-000-total_digit",
+          "invoice-010-total_digit",
+          "invoice-020-total_digit",
+          "invoice-030-total_digit",
+          "invoice-040-total_digit",
+          "invoice-050-total_digit",
+          "invoice-060-total_digit",
+          "invoice-070-total_digit",
+          "invoice-080-total_digit",
+          "invoice-090-total_digit",
+          "invoice-100-total_digit",
+          "invoice-110-total_digit"
+        ]
+      },
+      "hybrid": {
+        "n": 12,
+        "errors": 12,
+        "reviewed": 12,
+        "accepted": 0,
+        "errors_caught": 12,
+        "errors_accepted": 0,
+        "correct_reviewed": 0,
+        "accepted_error_rate": null,
+        "accepted_error_wilson95": null,
+        "review_ids": [
+          "invoice-000-total_digit",
+          "invoice-010-total_digit",
+          "invoice-020-total_digit",
+          "invoice-030-total_digit",
+          "invoice-040-total_digit",
+          "invoice-050-total_digit",
+          "invoice-060-total_digit",
+          "invoice-070-total_digit",
+          "invoice-080-total_digit",
+          "invoice-090-total_digit",
+          "invoice-100-total_digit",
+          "invoice-110-total_digit"
+        ]
+      }
+    },
+    "currency": {
+      "n": 12,
+      "min_score": 2.8130175451224204e-06,
+      "max_score": 1.3420012692222372e-05,
+      "median_score": 6.278297178141656e-06,
+      "rules": {
+        "n": 12,
+        "errors": 12,
+        "reviewed": 0,
+        "accepted": 12,
+        "errors_caught": 0,
+        "errors_accepted": 12,
+        "correct_reviewed": 0,
+        "accepted_error_rate": 1.0,
+        "accepted_error_wilson95": [
+          0.7574992425007574,
+          1
+        ],
+        "review_ids": []
+      },
+      "hybrid": {
+        "n": 12,
+        "errors": 12,
+        "reviewed": 12,
+        "accepted": 0,
+        "errors_caught": 12,
+        "errors_accepted": 0,
+        "correct_reviewed": 0,
+        "accepted_error_rate": null,
+        "accepted_error_wilson95": null,
+        "review_ids": [
+          "invoice-000-currency",
+          "invoice-010-currency",
+          "invoice-020-currency",
+          "invoice-030-currency",
+          "invoice-040-currency",
+          "invoice-050-currency",
+          "invoice-060-currency",
+          "invoice-070-currency",
+          "invoice-080-currency",
+          "invoice-090-currency",
+          "invoice-100-currency",
+          "invoice-110-currency"
+        ]
+      }
+    },
+    "consistent_amounts": {
+      "n": 12,
+      "min_score": 0.0010322310263291001,
+      "max_score": 0.014615669846534729,
+      "median_score": 0.00356842833571136,
+      "rules": {
+        "n": 12,
+        "errors": 12,
+        "reviewed": 0,
+        "accepted": 12,
+        "errors_caught": 0,
+        "errors_accepted": 12,
+        "correct_reviewed": 0,
+        "accepted_error_rate": 1.0,
+        "accepted_error_wilson95": [
+          0.7574992425007574,
+          1
+        ],
+        "review_ids": []
+      },
+      "hybrid": {
+        "n": 12,
+        "errors": 12,
+        "reviewed": 12,
+        "accepted": 0,
+        "errors_caught": 12,
+        "errors_accepted": 0,
+        "correct_reviewed": 0,
+        "accepted_error_rate": null,
+        "accepted_error_wilson95": null,
+        "review_ids": [
+          "invoice-000-consistent_amounts",
+          "invoice-010-consistent_amounts",
+          "invoice-020-consistent_amounts",
+          "invoice-030-consistent_amounts",
+          "invoice-040-consistent_amounts",
+          "invoice-050-consistent_amounts",
+          "invoice-060-consistent_amounts",
+          "invoice-070-consistent_amounts",
+          "invoice-080-consistent_amounts",
+          "invoice-090-consistent_amounts",
+          "invoice-100-consistent_amounts",
+          "invoice-110-consistent_amounts"
+        ]
+      }
+    }
+  },
+  "timing": {
+    "ocr_total_ms": {
+      "n": 120,
+      "median": 2941.5065564680845,
+      "p95": 3427.577525842935
+    },
+    "verifier_forward_ms": {
+      "n": 173,
+      "median": 475.43394519016147,
+      "p95": 560.3401102125645
+    },
+    "verifier_total_ms": {
+      "n": 173,
+      "median": 510.5109950527549,
+      "p95": 598.1107498519123
+    }
+  },
+  "upstream_smoke": [
+    {
+      "case_id": "upstream-01_text_putnam-0",
+      "set": "upstream",
+      "prob_yes": 0.9950946569442749,
+      "prob_no": 0.004905405919998884,
+      "logits": [
+        -2.90625,
+        2.40625
+      ],
+      "verdict": "scored",
+      "input_tokens": 296,
+      "preprocess_ms": 37.606894969940186,
+      "forward_ms": 434.36163291335106,
+      "total_ms": 471.96852788329124,
+      "error": null,
+      "expected_prob_yes": 0.99501
+    },
+    {
+      "case_id": "upstream-01_text_putnam-1",
+      "set": "upstream",
+      "prob_yes": 0.0037072531413286924,
+      "prob_no": 0.996292769908905,
+      "logits": [
+        2.765625,
+        -2.828125
+      ],
+      "verdict": "scored",
+      "input_tokens": 304,
+      "preprocess_ms": 37.39519789814949,
+      "forward_ms": 409.3440189026296,
+      "total_ms": 446.7392168007791,
+      "error": null,
+      "expected_prob_yes": 0.00702
+    },
+    {
+      "case_id": "upstream-02_formula_putnam-0",
+      "set": "upstream",
+      "prob_yes": 0.9709092378616333,
+      "prob_no": 0.02909075655043125,
+      "logits": [
+        -2.015625,
+        1.4921875
+      ],
+      "verdict": "scored",
+      "input_tokens": 348,
+      "preprocess_ms": 39.15752470493317,
+      "forward_ms": 370.62937719747424,
+      "total_ms": 409.7869019024074,
+      "error": null,
+      "expected_prob_yes": 0.96813
+    },
+    {
+      "case_id": "upstream-02_formula_putnam-1",
+      "set": "upstream",
+      "prob_yes": 0.9658995866775513,
+      "prob_no": 0.034100428223609924,
+      "logits": [
+        -1.9375,
+        1.40625
+      ],
+      "verdict": "scored",
+      "input_tokens": 424,
+      "preprocess_ms": 35.891623701900244,
+      "forward_ms": 454.2503831908107,
+      "total_ms": 490.1420068927109,
+      "error": null,
+      "expected_prob_yes": 0.96552
+    },
+    {
+      "case_id": "upstream-03_table_gb_standard-0",
+      "set": "upstream",
+      "prob_yes": 0.03760863468050957,
+      "prob_no": 0.9623913168907166,
+      "logits": [
+        1.5234375,
+        -1.71875
+      ],
+      "verdict": "scored",
+      "input_tokens": 610,
+      "preprocess_ms": 41.49722866714001,
+      "forward_ms": 535.0281302817166,
+      "total_ms": 576.5253589488566,
+      "error": null,
+      "expected_prob_yes": 0.04075
+    },
+    {
+      "case_id": "upstream-03_table_gb_standard-1",
+      "set": "upstream",
+      "prob_yes": 0.0009399440023116767,
+      "prob_no": 0.9990600943565369,
+      "logits": [
+        3.421875,
+        -3.546875
+      ],
+      "verdict": "scored",
+      "input_tokens": 590,
+      "preprocess_ms": 49.00857014581561,
+      "forward_ms": 518.6971100047231,
+      "total_ms": 567.7056801505387,
+      "error": null,
+      "expected_prob_yes": 0.00116
+    }
+  ],
+  "rendering": {
+    "upstream_revision": "b33b474136088dc43a2341e94590c804ec0c16a5",
+    "batch_seconds": 34.17343661375344,
+    "candidate_count": 174,
+    "success": 174,
+    "pinned_packages": {
+      "playwright": "1.62.0",
+      "Pillow": "12.3.0",
+      "Markdown": "3.10.3"
+    },
+    "font_environment": "DGX host fonts; not the exact reference Docker font set",
+    "parallelism": 3
+  },
+  "limitations": [
+    "Synthetic payment-region crops, not whole-invoice or production accuracy.",
+    "No fine-tuning or production calibration. Score is a model output, not a guarantee.",
+    "Region pixels degraded; source page outside the region remains crisp.",
+    "Shared GPU with PyTorch fallback kernels; timing excludes candidate rendering in verifier_total_ms.",
+    "Host fonts differ from upstream reference Docker renderer.",
+    "Error labels cover four amounts and currency, not all possible visual or layout defects."
+  ]
+}

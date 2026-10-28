@@ -1,0 +1,1 @@
+{"case_id": "probe-upstream-inconsistent", "set": "probe", "prob_yes": 0.0025114635936915874, "prob_no": 0.9974884986877441, "logits": [2.96875, -3.015625], "verdict": "scored", "input_tokens": 304, "preprocess_ms": 54.42510498687625, "forward_ms": 2121.7041979543865, "total_ms": 2176.1293029412627, "error": null, "expected_prob_yes": 0.00702}

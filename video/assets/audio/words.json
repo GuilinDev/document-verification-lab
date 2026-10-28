@@ -1,0 +1,1207 @@
+[
+  {
+    "text": "An",
+    "start": 0.092583,
+    "duration": 0.081
+  },
+  {
+    "text": "invoice",
+    "start": 0.185166,
+    "duration": 0.439833
+  },
+  {
+    "text": "can",
+    "start": 0.636583,
+    "duration": 0.138875
+  },
+  {
+    "text": "pass",
+    "start": 0.787041,
+    "duration": 0.335666
+  },
+  {
+    "text": "a",
+    "start": 1.13425,
+    "duration": 0.0462909
+  },
+  {
+    "text": "calculation",
+    "start": 1.192125,
+    "duration": 0.613416
+  },
+  {
+    "text": "check",
+    "start": 1.817125,
+    "duration": 0.300916
+  },
+  {
+    "text": "and",
+    "start": 2.280083,
+    "duration": 0.069458
+  },
+  {
+    "text": "still",
+    "start": 2.361125,
+    "duration": 0.266208
+  },
+  {
+    "text": "contain",
+    "start": 2.638875,
+    "duration": 0.370375
+  },
+  {
+    "text": "the",
+    "start": 3.020833,
+    "duration": 0.069458
+  },
+  {
+    "text": "wrong",
+    "start": 3.101833,
+    "duration": 0.2315
+  },
+  {
+    "text": "numbers",
+    "start": 3.344916,
+    "duration": 0.439833
+  },
+  {
+    "text": "I",
+    "start": 4.166666,
+    "duration": 0.104166
+  },
+  {
+    "text": "built",
+    "start": 4.282416,
+    "duration": 0.289333
+  },
+  {
+    "text": "Document",
+    "start": 4.583333,
+    "duration": 0.42825
+  },
+  {
+    "text": "Verification",
+    "start": 5.023166,
+    "duration": 0.682875
+  },
+  {
+    "text": "Lab",
+    "start": 5.717583,
+    "duration": 0.277791
+  },
+  {
+    "text": "to",
+    "start": 6.064833,
+    "duration": 0.081
+  },
+  {
+    "text": "see",
+    "start": 6.157416,
+    "duration": 0.289333
+  },
+  {
+    "text": "what",
+    "start": 6.458333,
+    "duration": 0.138875
+  },
+  {
+    "text": "an",
+    "start": 6.608791,
+    "duration": 0.104166
+  },
+  {
+    "text": "independent",
+    "start": 6.770833,
+    "duration": 0.601833
+  },
+  {
+    "text": "visual",
+    "start": 7.38425,
+    "duration": 0.439833
+  },
+  {
+    "text": "check",
+    "start": 7.835666,
+    "duration": 0.300916
+  },
+  {
+    "text": "adds",
+    "start": 8.217583,
+    "duration": 0.381958
+  },
+  {
+    "text": "to",
+    "start": 8.611125,
+    "duration": 0.092583
+  },
+  {
+    "text": "document",
+    "start": 8.715291,
+    "duration": 0.451375
+  },
+  {
+    "text": "automation",
+    "start": 9.17825,
+    "duration": 0.555541
+  },
+  {
+    "text": "Start",
+    "start": 10.11575,
+    "duration": 0.289333
+  },
+  {
+    "text": "with",
+    "start": 10.416666,
+    "duration": 0.138875
+  },
+  {
+    "text": "this",
+    "start": 10.567125,
+    "duration": 0.173625
+  },
+  {
+    "text": "generated",
+    "start": 10.752333,
+    "duration": 0.462958
+  },
+  {
+    "text": "invoice",
+    "start": 11.226833,
+    "duration": 0.532416
+  },
+  {
+    "text": "and",
+    "start": 11.863416,
+    "duration": 0.104166
+  },
+  {
+    "text": "its",
+    "start": 11.979166,
+    "duration": 0.11575
+  },
+  {
+    "text": "payment",
+    "start": 12.1065,
+    "duration": 0.347208
+  },
+  {
+    "text": "details",
+    "start": 12.465291,
+    "duration": 0.555541
+  },
+  {
+    "text": "For",
+    "start": 13.4375,
+    "duration": 0.081
+  },
+  {
+    "text": "a",
+    "start": 13.530083,
+    "duration": 0.034708
+  },
+  {
+    "text": "controlled",
+    "start": 13.576375,
+    "duration": 0.42825
+  },
+  {
+    "text": "stress",
+    "start": 14.016208,
+    "duration": 0.324083
+  },
+  {
+    "text": "test",
+    "start": 14.351833,
+    "duration": 0.3935
+  },
+  {
+    "text": "I",
+    "start": 15.023166,
+    "duration": 0.023166
+  },
+  {
+    "text": "multiply",
+    "start": 15.057875,
+    "duration": 0.625
+  },
+  {
+    "text": "every",
+    "start": 15.787041,
+    "duration": 0.243041
+  },
+  {
+    "text": "amount",
+    "start": 16.041666,
+    "duration": 0.254625
+  },
+  {
+    "text": "by",
+    "start": 16.307875,
+    "duration": 0.11575
+  },
+  {
+    "text": "ten",
+    "start": 16.435166,
+    "duration": 0.324083
+  },
+  {
+    "text": "Subtotal",
+    "start": 17.152791,
+    "duration": 0.532416
+  },
+  {
+    "text": "shipping",
+    "start": 17.8935,
+    "duration": 0.416666
+  },
+  {
+    "text": "and",
+    "start": 18.32175,
+    "duration": 0.092583
+  },
+  {
+    "text": "tax",
+    "start": 18.425916,
+    "duration": 0.358791
+  },
+  {
+    "text": "still",
+    "start": 18.796291,
+    "duration": 0.3125
+  },
+  {
+    "text": "add",
+    "start": 19.17825,
+    "duration": 0.150458
+  },
+  {
+    "text": "up",
+    "start": 19.340291,
+    "duration": 0.138875
+  },
+  {
+    "text": "to",
+    "start": 19.49075,
+    "duration": 0.069458
+  },
+  {
+    "text": "the",
+    "start": 19.57175,
+    "duration": 0.081
+  },
+  {
+    "text": "total",
+    "start": 19.664333,
+    "duration": 0.347208
+  },
+  {
+    "text": "so",
+    "start": 20.347208,
+    "duration": 0.081
+  },
+  {
+    "text": "the",
+    "start": 20.439833,
+    "duration": 0.092583
+  },
+  {
+    "text": "arithmetic",
+    "start": 20.544,
+    "duration": 0.555541
+  },
+  {
+    "text": "check",
+    "start": 21.111125,
+    "duration": 0.219916
+  },
+  {
+    "text": "passes",
+    "start": 21.342583,
+    "duration": 0.520833
+  },
+  {
+    "text": "Comparing",
+    "start": 22.245375,
+    "duration": 0.381958
+  },
+  {
+    "text": "the",
+    "start": 22.638875,
+    "duration": 0.057875
+  },
+  {
+    "text": "extracted",
+    "start": 22.708333,
+    "duration": 0.613416
+  },
+  {
+    "text": "values",
+    "start": 23.333333,
+    "duration": 0.416666
+  },
+  {
+    "text": "with",
+    "start": 23.761583,
+    "duration": 0.11575
+  },
+  {
+    "text": "the",
+    "start": 23.888875,
+    "duration": 0.081
+  },
+  {
+    "text": "original",
+    "start": 23.9815,
+    "duration": 0.474541
+  },
+  {
+    "text": "page",
+    "start": 24.467583,
+    "duration": 0.3935
+  },
+  {
+    "text": "reveals",
+    "start": 24.976833,
+    "duration": 0.358791
+  },
+  {
+    "text": "the",
+    "start": 25.347208,
+    "duration": 0.081
+  },
+  {
+    "text": "problem",
+    "start": 25.439833,
+    "duration": 0.42825
+  },
+  {
+    "text": "OpenBMB's",
+    "start": 26.25,
+    "duration": 0.763875
+  },
+  {
+    "text": "MiniCPM",
+    "start": 27.025458,
+    "duration": 0.868041
+  },
+  {
+    "text": "OCR",
+    "start": 27.974541,
+    "duration": 0.520833
+  },
+  {
+    "text": "Jev",
+    "start": 28.622666,
+    "duration": 0.381958
+  },
+  {
+    "text": "takes",
+    "start": 29.0625,
+    "duration": 0.289333
+  },
+  {
+    "text": "the",
+    "start": 29.363416,
+    "duration": 0.104166
+  },
+  {
+    "text": "source",
+    "start": 29.479166,
+    "duration": 0.335666
+  },
+  {
+    "text": "image",
+    "start": 29.826375,
+    "duration": 0.405083
+  },
+  {
+    "text": "candidate",
+    "start": 30.439833,
+    "duration": 0.42825
+  },
+  {
+    "text": "text",
+    "start": 30.879625,
+    "duration": 0.405083
+  },
+  {
+    "text": "and",
+    "start": 31.5625,
+    "duration": 0.057875
+  },
+  {
+    "text": "a",
+    "start": 31.631958,
+    "duration": 0.034708
+  },
+  {
+    "text": "rendered",
+    "start": 31.67825,
+    "duration": 0.335666
+  },
+  {
+    "text": "copy",
+    "start": 32.025458,
+    "duration": 0.347208
+  },
+  {
+    "text": "of",
+    "start": 32.38425,
+    "duration": 0.057875
+  },
+  {
+    "text": "that",
+    "start": 32.453708,
+    "duration": 0.162041
+  },
+  {
+    "text": "text",
+    "start": 32.627333,
+    "duration": 0.42825
+  },
+  {
+    "text": "Its",
+    "start": 33.4375,
+    "duration": 0.173625
+  },
+  {
+    "text": "two-billion-parameter",
+    "start": 33.622666,
+    "duration": 1.006958
+  },
+  {
+    "text": "classifier",
+    "start": 34.641208,
+    "duration": 0.659708
+  },
+  {
+    "text": "returns",
+    "start": 35.3125,
+    "duration": 0.370375
+  },
+  {
+    "text": "a",
+    "start": 35.694458,
+    "duration": 0.057875
+  },
+  {
+    "text": "consistency",
+    "start": 35.763875,
+    "duration": 0.648166
+  },
+  {
+    "text": "score",
+    "start": 36.423625,
+    "duration": 0.3935
+  },
+  {
+    "text": "Higher",
+    "start": 37.210666,
+    "duration": 0.254625
+  },
+  {
+    "text": "means",
+    "start": 37.476833,
+    "duration": 0.219916
+  },
+  {
+    "text": "stronger",
+    "start": 37.708333,
+    "duration": 0.474541
+  },
+  {
+    "text": "predicted",
+    "start": 38.194458,
+    "duration": 0.486125
+  },
+  {
+    "text": "agreement",
+    "start": 38.692125,
+    "duration": 0.451375
+  },
+  {
+    "text": "with",
+    "start": 39.212958,
+    "duration": 0.104166
+  },
+  {
+    "text": "the",
+    "start": 39.328708,
+    "duration": 0.057875
+  },
+  {
+    "text": "pixels",
+    "start": 39.398166,
+    "duration": 0.532416
+  },
+  {
+    "text": "Here",
+    "start": 40.347208,
+    "duration": 0.254625
+  },
+  {
+    "text": "the",
+    "start": 40.833333,
+    "duration": 0.081
+  },
+  {
+    "text": "score",
+    "start": 40.925916,
+    "duration": 0.243041
+  },
+  {
+    "text": "drops",
+    "start": 41.180541,
+    "duration": 0.289333
+  },
+  {
+    "text": "from",
+    "start": 41.4815,
+    "duration": 0.127333
+  },
+  {
+    "text": "about",
+    "start": 41.620375,
+    "duration": 0.277791
+  },
+  {
+    "text": "zero",
+    "start": 41.909708,
+    "duration": 0.324083
+  },
+  {
+    "text": "point",
+    "start": 42.245375,
+    "duration": 0.300916
+  },
+  {
+    "text": "nine",
+    "start": 42.557875,
+    "duration": 0.266208
+  },
+  {
+    "text": "eight",
+    "start": 42.835666,
+    "duration": 0.2315
+  },
+  {
+    "text": "to",
+    "start": 43.171291,
+    "duration": 0.092583
+  },
+  {
+    "text": "zero",
+    "start": 43.275458,
+    "duration": 0.324083
+  },
+  {
+    "text": "point",
+    "start": 43.611125,
+    "duration": 0.3125
+  },
+  {
+    "text": "zero",
+    "start": 43.935166,
+    "duration": 0.289333
+  },
+  {
+    "text": "zero",
+    "start": 44.236125,
+    "duration": 0.300916
+  },
+  {
+    "text": "seven",
+    "start": 44.548625,
+    "duration": 0.335666
+  },
+  {
+    "text": "I",
+    "start": 45.277791,
+    "duration": 0.081
+  },
+  {
+    "text": "also",
+    "start": 45.370375,
+    "duration": 0.300916
+  },
+  {
+    "text": "ran",
+    "start": 45.682875,
+    "duration": 0.277791
+  },
+  {
+    "text": "real",
+    "start": 45.972208,
+    "duration": 0.243041
+  },
+  {
+    "text": "OCR",
+    "start": 46.226833,
+    "duration": 0.567125
+  },
+  {
+    "text": "on",
+    "start": 47.013875,
+    "duration": 0.150458
+  },
+  {
+    "text": "one",
+    "start": 47.175916,
+    "duration": 0.173625
+  },
+  {
+    "text": "hundred",
+    "start": 47.361125,
+    "duration": 0.277791
+  },
+  {
+    "text": "and",
+    "start": 47.650458,
+    "duration": 0.057875
+  },
+  {
+    "text": "twenty",
+    "start": 47.719916,
+    "duration": 0.289333
+  },
+  {
+    "text": "generated",
+    "start": 48.020833,
+    "duration": 0.439833
+  },
+  {
+    "text": "invoices",
+    "start": 48.472208,
+    "duration": 0.659708
+  },
+  {
+    "text": "Forty",
+    "start": 49.57175,
+    "duration": 0.243041
+  },
+  {
+    "text": "set",
+    "start": 49.826375,
+    "duration": 0.208333
+  },
+  {
+    "text": "the",
+    "start": 50.046291,
+    "duration": 0.069458
+  },
+  {
+    "text": "review",
+    "start": 50.127333,
+    "duration": 0.358791
+  },
+  {
+    "text": "threshold",
+    "start": 50.497666,
+    "duration": 0.601833
+  },
+  {
+    "text": "eighty",
+    "start": 51.469916,
+    "duration": 0.254625
+  },
+  {
+    "text": "were",
+    "start": 51.736125,
+    "duration": 0.127333
+  },
+  {
+    "text": "held",
+    "start": 51.875,
+    "duration": 0.2315
+  },
+  {
+    "text": "out",
+    "start": 52.118041,
+    "duration": 0.266208
+  },
+  {
+    "text": "Rules",
+    "start": 52.766208,
+    "duration": 0.208333
+  },
+  {
+    "text": "caught",
+    "start": 52.986125,
+    "duration": 0.2315
+  },
+  {
+    "text": "all",
+    "start": 53.32175,
+    "duration": 0.173625
+  },
+  {
+    "text": "three",
+    "start": 53.506958,
+    "duration": 0.289333
+  },
+  {
+    "text": "test",
+    "start": 53.807875,
+    "duration": 0.300916
+  },
+  {
+    "text": "errors",
+    "start": 54.120375,
+    "duration": 0.3935
+  },
+  {
+    "text": "Adding",
+    "start": 54.895833,
+    "duration": 0.208333
+  },
+  {
+    "text": "the",
+    "start": 55.11575,
+    "duration": 0.081
+  },
+  {
+    "text": "verifier",
+    "start": 55.208333,
+    "duration": 0.601833
+  },
+  {
+    "text": "sent",
+    "start": 55.82175,
+    "duration": 0.266208
+  },
+  {
+    "text": "thirteen",
+    "start": 56.157416,
+    "duration": 0.497666
+  },
+  {
+    "text": "correct",
+    "start": 56.666666,
+    "duration": 0.347208
+  },
+  {
+    "text": "results",
+    "start": 57.025458,
+    "duration": 0.3935
+  },
+  {
+    "text": "to",
+    "start": 57.430541,
+    "duration": 0.11575
+  },
+  {
+    "text": "review",
+    "start": 57.557875,
+    "duration": 0.405083
+  },
+  {
+    "text": "without",
+    "start": 58.32175,
+    "duration": 0.335666
+  },
+  {
+    "text": "catching",
+    "start": 58.668958,
+    "duration": 0.381958
+  },
+  {
+    "text": "another",
+    "start": 59.1435,
+    "duration": 0.3125
+  },
+  {
+    "text": "error",
+    "start": 59.467583,
+    "duration": 0.3125
+  },
+  {
+    "text": "The",
+    "start": 60.173625,
+    "duration": 0.0462909
+  },
+  {
+    "text": "separate",
+    "start": 60.231458,
+    "duration": 0.335666
+  },
+  {
+    "text": "stress",
+    "start": 60.578708,
+    "duration": 0.3125
+  },
+  {
+    "text": "tests",
+    "start": 60.902791,
+    "duration": 0.381958
+  },
+  {
+    "text": "tell",
+    "start": 61.296291,
+    "duration": 0.162041
+  },
+  {
+    "text": "a",
+    "start": 61.469916,
+    "duration": 0.0462909
+  },
+  {
+    "text": "different",
+    "start": 61.527791,
+    "duration": 0.277791
+  },
+  {
+    "text": "story",
+    "start": 61.817125,
+    "duration": 0.381958
+  },
+  {
+    "text": "All",
+    "start": 62.581,
+    "duration": 0.162041
+  },
+  {
+    "text": "twenty-four",
+    "start": 62.754625,
+    "duration": 0.486125
+  },
+  {
+    "text": "internally",
+    "start": 63.252291,
+    "duration": 0.474541
+  },
+  {
+    "text": "consistent",
+    "start": 63.738416,
+    "duration": 0.544
+  },
+  {
+    "text": "currency",
+    "start": 64.293958,
+    "duration": 0.544
+  },
+  {
+    "text": "and",
+    "start": 64.942125,
+    "duration": 0.162041
+  },
+  {
+    "text": "amount",
+    "start": 65.11575,
+    "duration": 0.300916
+  },
+  {
+    "text": "changes",
+    "start": 65.42825,
+    "duration": 0.439833
+  },
+  {
+    "text": "passed",
+    "start": 65.879625,
+    "duration": 0.335666
+  },
+  {
+    "text": "the",
+    "start": 66.226833,
+    "duration": 0.057875
+  },
+  {
+    "text": "rules",
+    "start": 66.296291,
+    "duration": 0.451375
+  },
+  {
+    "text": "The",
+    "start": 67.141208,
+    "duration": 0.057875
+  },
+  {
+    "text": "visual",
+    "start": 67.210625,
+    "duration": 0.358791
+  },
+  {
+    "text": "verifier",
+    "start": 67.581,
+    "duration": 0.544
+  },
+  {
+    "text": "flagged",
+    "start": 68.136583,
+    "duration": 0.439833
+  },
+  {
+    "text": "every",
+    "start": 68.773125,
+    "duration": 0.208333
+  },
+  {
+    "text": "one",
+    "start": 68.993041,
+    "duration": 0.277791
+  },
+  {
+    "text": "That",
+    "start": 69.664333,
+    "duration": 0.104166
+  },
+  {
+    "text": "gives",
+    "start": 69.780083,
+    "duration": 0.243041
+  },
+  {
+    "text": "us",
+    "start": 70.034708,
+    "duration": 0.11575
+  },
+  {
+    "text": "a",
+    "start": 70.162041,
+    "duration": 0.057875
+  },
+  {
+    "text": "specific",
+    "start": 70.231458,
+    "duration": 0.601833
+  },
+  {
+    "text": "capability",
+    "start": 70.844916,
+    "duration": 0.706
+  },
+  {
+    "text": "to",
+    "start": 71.5625,
+    "duration": 0.138875
+  },
+  {
+    "text": "investigate",
+    "start": 71.712958,
+    "duration": 0.682875
+  },
+  {
+    "text": "on",
+    "start": 72.407416,
+    "duration": 0.150458
+  },
+  {
+    "text": "representative",
+    "start": 72.569458,
+    "duration": 0.590291
+  },
+  {
+    "text": "documents",
+    "start": 73.171291,
+    "duration": 0.694458
+  },
+  {
+    "text": "For",
+    "start": 74.305541,
+    "duration": 0.127333
+  },
+  {
+    "text": "supplier-invoice",
+    "start": 74.444458,
+    "duration": 0.763875
+  },
+  {
+    "text": "workflows",
+    "start": 75.219916,
+    "duration": 0.648166
+  },
+  {
+    "text": "I",
+    "start": 76.076375,
+    "duration": 0.057875
+  },
+  {
+    "text": "would",
+    "start": 76.145833,
+    "duration": 0.127333
+  },
+  {
+    "text": "keep",
+    "start": 76.284708,
+    "duration": 0.2315
+  },
+  {
+    "text": "the",
+    "start": 76.527791,
+    "duration": 0.092583
+  },
+  {
+    "text": "source",
+    "start": 76.631958,
+    "duration": 0.335666
+  },
+  {
+    "text": "evidence",
+    "start": 77.094916,
+    "duration": 0.335666
+  },
+  {
+    "text": "attached",
+    "start": 77.442125,
+    "duration": 0.532416
+  },
+  {
+    "text": "measure",
+    "start": 78.194458,
+    "duration": 0.266208
+  },
+  {
+    "text": "the",
+    "start": 78.472208,
+    "duration": 0.11575
+  },
+  {
+    "text": "extra",
+    "start": 78.657416,
+    "duration": 0.347208
+  },
+  {
+    "text": "errors",
+    "start": 79.074083,
+    "duration": 0.335666
+  },
+  {
+    "text": "caught",
+    "start": 79.421291,
+    "duration": 0.277791
+  },
+  {
+    "text": "per",
+    "start": 79.710625,
+    "duration": 0.162041
+  },
+  {
+    "text": "review",
+    "start": 79.88425,
+    "duration": 0.381958
+  },
+  {
+    "text": "and",
+    "start": 80.555541,
+    "duration": 0.081
+  },
+  {
+    "text": "check",
+    "start": 80.648125,
+    "duration": 0.2315
+  },
+  {
+    "text": "purchase",
+    "start": 80.891208,
+    "duration": 0.370375
+  },
+  {
+    "text": "orders",
+    "start": 81.273125,
+    "duration": 0.243041
+  },
+  {
+    "text": "separately",
+    "start": 81.527791,
+    "duration": 0.462958
+  },
+  {
+    "text": "You",
+    "start": 82.372666,
+    "duration": 0.081
+  },
+  {
+    "text": "can",
+    "start": 82.465291,
+    "duration": 0.104166
+  },
+  {
+    "text": "inspect",
+    "start": 82.581,
+    "duration": 0.42825
+  },
+  {
+    "text": "every",
+    "start": 83.136583,
+    "duration": 0.2315
+  },
+  {
+    "text": "case",
+    "start": 83.379625,
+    "duration": 0.42825
+  },
+  {
+    "text": "and",
+    "start": 83.900458,
+    "duration": 0.127333
+  },
+  {
+    "text": "change",
+    "start": 84.039333,
+    "duration": 0.347208
+  },
+  {
+    "text": "the",
+    "start": 84.398125,
+    "duration": 0.069458
+  },
+  {
+    "text": "threshold",
+    "start": 84.479166,
+    "duration": 0.555541
+  },
+  {
+    "text": "in",
+    "start": 85.046291,
+    "duration": 0.081
+  },
+  {
+    "text": "the",
+    "start": 85.138875,
+    "duration": 0.092583
+  },
+  {
+    "text": "open",
+    "start": 85.243041,
+    "duration": 0.277791
+  },
+  {
+    "text": "lab",
+    "start": 85.532416,
+    "duration": 0.324083
+  },
+  {
+    "text": "The",
+    "start": 86.25,
+    "duration": 0.057875
+  },
+  {
+    "text": "code",
+    "start": 86.319458,
+    "duration": 0.335666
+  },
+  {
+    "text": "inputs",
+    "start": 87.002291,
+    "duration": 0.451375
+  },
+  {
+    "text": "and",
+    "start": 87.465291,
+    "duration": 0.081
+  },
+  {
+    "text": "results",
+    "start": 87.557875,
+    "duration": 0.370375
+  },
+  {
+    "text": "are",
+    "start": 87.939791,
+    "duration": 0.069458
+  },
+  {
+    "text": "public",
+    "start": 88.020833,
+    "duration": 0.439833
+  }
+]

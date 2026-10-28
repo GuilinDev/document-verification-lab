@@ -1,0 +1,3176 @@
+[
+  {
+    "case_id": "invoice-000",
+    "source_id": "invoice-000",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-000-region.png",
+    "text": "Subtotal USD 11,017.48\nShipping USD 68.00\nTax USD 826.31\nTotal USD 11,911.79",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-000",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000001_invoice-000.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "cbc4a489498330c99798350170d689ab5915a584ec9aeda50239d3e9bfbc8144"
+    }
+  },
+  {
+    "case_id": "invoice-001",
+    "source_id": "invoice-001",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-001-region.png",
+    "text": "Subtotal USD 7,526.41\nShipping USD 35.22\nTax USD 564.48\nTotal USD 8,126.11",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-001",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000002_invoice-001.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "b26f055ed03413c8a8d82fdb6d9554ee0498e6e249cda40909b38826cd99e317"
+    }
+  },
+  {
+    "case_id": "invoice-002",
+    "source_id": "invoice-002",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-002-region.png",
+    "text": "Subtotal USD 7,581.85\nShipping USD 15.06\nTax USD 568.64\nTotal USD 8,165.55",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-002",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000003_invoice-002.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "2b3fe1e2f24f37bb76be45ceee6dafa09e340fe5018d779b1260d5a0ea39fd76"
+    }
+  },
+  {
+    "case_id": "invoice-003",
+    "source_id": "invoice-003",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-003-region.png",
+    "text": "Subtotal USD 2,241.77\nShipping USD 29.09\nTax USD 168.13\nTotal USD 2,438.99",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-003",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000004_invoice-003.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "c2308ed0a8c0d3e88e32f9b1b8de45058ade5551155495bcc33b8d4e52f895e1"
+    }
+  },
+  {
+    "case_id": "invoice-004",
+    "source_id": "invoice-004",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-004-region.png",
+    "text": "Subtotal USD 3,610.99\nShipping USD 24.28\nTax USD 270.82\nTotal USD 3,906.09",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-004",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000005_invoice-004.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "c9947153e2fff96f5721dfe7dd254fa88d0044db82f834780792fa7f7e426b77"
+    }
+  },
+  {
+    "case_id": "invoice-005",
+    "source_id": "invoice-005",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-005-region.png",
+    "text": "Subtotal USD 14,044.48\nShipping USD 91.64\nTax USD 1,053.34\nTotal USD 15,189.46",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-005",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000006_invoice-005.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "5a0e928a417529338c544ff0cec5b114413c5e78a5ee4a9326a01c0b25e8b5ec"
+    }
+  },
+  {
+    "case_id": "invoice-006",
+    "source_id": "invoice-006",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-006-region.png",
+    "text": "Subtotal USD 7,190.01\nShipping USD 85.03\nTax USD 539.25\nTotal USD 7,814.29",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-006",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000007_invoice-006.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "6c0c349e4efbd04a45cf07efa02385a835c0b62d6b5993c47de9661824723111"
+    }
+  },
+  {
+    "case_id": "invoice-007",
+    "source_id": "invoice-007",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-007-region.png",
+    "text": "Subtotal USD 5,433.14\nShipping USD 79.27\nTax USD 607.49\nTotal USD 5,919.90",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-007",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000008_invoice-007.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "5d9bee3282bcbc260454c492dadff65068a34bafdf5947e52f2593711020804e"
+    }
+  },
+  {
+    "case_id": "invoice-008",
+    "source_id": "invoice-008",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-008-region.png",
+    "text": "Subtotal USD 3,034.69\nShipping USD 28.28\nTax USD 227.60\nTotal USD 3,290.57",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-008",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000009_invoice-008.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "ca8ffeeb266e11505052a9d87c1d0e880b957f5103496f522bdf70be7fd4ec88"
+    }
+  },
+  {
+    "case_id": "invoice-009",
+    "source_id": "invoice-009",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-009-region.png",
+    "text": "Subtotal USD 1,927.71\nShipping USD 42.40\nTax USD 144.58\nTotal USD 2,114.69",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-009",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000010_invoice-009.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "ec3edc6741ae772befe4f2cf9fbf0f48cd07cf39a764295b5701ab3a89deaa4a"
+    }
+  },
+  {
+    "case_id": "invoice-010",
+    "source_id": "invoice-010",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-010-region.png",
+    "text": "Subtotal EUR 4,014.50\nShipping EUR 77.46\nTax EUR 301.09\nTotal EUR 4,393.05",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-010",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000011_invoice-010.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "e2265210c6f076bbd11473e4111a86cc17aa3245af6d6cc9aa2cd777be86f995"
+    }
+  },
+  {
+    "case_id": "invoice-011",
+    "source_id": "invoice-011",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-011-region.png",
+    "text": "Subtotal EUR 13,357.75\nShipping EUR 85.66\nTax EUR 1,001.83\nTotal EUR 14,445.24",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-011",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000012_invoice-011.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "6f13b1c3ecd4ae5ef74f703084663e57e287a7698fcbeebb999a36022e4ea74f"
+    }
+  },
+  {
+    "case_id": "invoice-012",
+    "source_id": "invoice-012",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-012-region.png",
+    "text": "Subtotal EUR 9,375.12\nShipping EUR 41.05\nTax EUR 703.13\nTotal EUR 10,119.30",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-012",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000013_invoice-012.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "6ed001f6e9daa4fd53e5fb93822099fa0a16da86fd6a8921b7f5d4f447a7aa52"
+    }
+  },
+  {
+    "case_id": "invoice-013",
+    "source_id": "invoice-013",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-013-region.png",
+    "text": "Subtotal EUR 4,842.59\nShipping EUR 42.76\nTax EUR 363.19\nTotal EUR 5,248.54",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-013",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000014_invoice-013.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "1f0d198e45c41f01bd05f2ad7506f1f29f30e9c5209dba2e08258db57b39a673"
+    }
+  },
+  {
+    "case_id": "invoice-014",
+    "source_id": "invoice-014",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-014-region.png",
+    "text": "Subtotal EUR 7,792.95\nShipping EUR 44.60\nTax EUR 584.47\nTotal EUR 8,422.02",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-014",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000015_invoice-014.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "e2d9ef8b98830364e955329c6af71ed42b4964c98298923f5f8b66d927196f87"
+    }
+  },
+  {
+    "case_id": "invoice-015",
+    "source_id": "invoice-015",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-015-region.png",
+    "text": "Subtotal EUR 12,014.10\nShipping EUR 25.12\nTax EUR 901.06\nTotal EUR 12,940.28",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-015",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000016_invoice-015.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "025d4bf2682dab0e7d2f6d525d46a4b32936f615c62a0605026a261f02ec7f45"
+    }
+  },
+  {
+    "case_id": "invoice-016",
+    "source_id": "invoice-016",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-016-region.png",
+    "text": "Subtotal EUR 7,128.64\nShipping EUR 58.91\nTax EUR 534.65\nTotal EUR 7,722.20",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-016",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000017_invoice-016.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "7164145595bf37f7048e18ad9e08035b7b36ed8b5e304f372e4b52e99f0c00b8"
+    }
+  },
+  {
+    "case_id": "invoice-017",
+    "source_id": "invoice-017",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-017-region.png",
+    "text": "Subtotal EUR 6,887.29\nShipping EUR 12.96\nTax EUR 516.55\nTotal EUR 7,406.80",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-017",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000018_invoice-017.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "90f2a87cd8497de4adf6426c69437409a1226d1c4c9d7413640015c5362233ef"
+    }
+  },
+  {
+    "case_id": "invoice-018",
+    "source_id": "invoice-018",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-018-region.png",
+    "text": "Subtotal EUR 6,624.41\nShipping EUR 72.45\nTax EUR 496.83\nTotal EUR 7,193.69",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-018",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000019_invoice-018.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "ea32654dbeac505e633fcc7d9fd96b75610c89e6e5499e2c5eb37314a5ee44cf"
+    }
+  },
+  {
+    "case_id": "invoice-019",
+    "source_id": "invoice-019",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-019-region.png",
+    "text": "Subtotal EUR 4,180.92\nShipping EUR 32.23\nTax EUR 313.57\nTotal EUR 4,526.72",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-019",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000020_invoice-019.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "6dad3dbfa8022ee17c01b95c70eb44e254ef4b264a8243cc01cd814a766d1a6d"
+    }
+  },
+  {
+    "case_id": "invoice-020",
+    "source_id": "invoice-020",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-020-region.png",
+    "text": "Subtotal GBP 2,811.10\nShipping GBP 54.13\nTax GBP 210.83\nTotal GBP 3,076.06",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-020",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000021_invoice-020.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "cd76ecbcce3f33a8ec00aef8abf008ca1bdb248242920cd2d4946bf9637c1e31"
+    }
+  },
+  {
+    "case_id": "invoice-021",
+    "source_id": "invoice-021",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-021-region.png",
+    "text": "Subtotal GBP 3,130.57\nShipping GBP 53.53\nTax GBP 234.79\nTotal GBP 3,418.89",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-021",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000022_invoice-021.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "b18ad3e8806abce8e594de03480c3f809ede1d22791380c4d3d6e1d0a5727acf"
+    }
+  },
+  {
+    "case_id": "invoice-022",
+    "source_id": "invoice-022",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-022-region.png",
+    "text": "Subtotal GBP 1,542.33\nShipping GBP 23.07\nTax GBP 115.67\nTotal GBP 1,681.07",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-022",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000023_invoice-022.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "fd36cf29247eea46c4ad17f8f0394298222cfcf2b22964ea33656315ad57ceda"
+    }
+  },
+  {
+    "case_id": "invoice-023",
+    "source_id": "invoice-023",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-023-region.png",
+    "text": "Subtotal GBP 11,524.75\nShipping GBP 76.48\nTax GBP 864.36\nTotal GBP 12,465.59",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-023",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000024_invoice-023.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "90c085e5f4cce7dfe17454c58fc5163d252dffef94779c97235f99ecbcb397df"
+    }
+  },
+  {
+    "case_id": "invoice-024",
+    "source_id": "invoice-024",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-024-region.png",
+    "text": "Subtotal GBP 4,998.89\nShipping GBP 70.25\nTax GBP 374.92\nTotal GBP 5,444.06",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-024",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000025_invoice-024.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "4bb76e302e12a35e611ff12aefb6bc2b00ac12f37bb9ebb4d5783f906fba27ce"
+    }
+  },
+  {
+    "case_id": "invoice-025",
+    "source_id": "invoice-025",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-025-region.png",
+    "text": "Subtotal GBP 8,426.00\nShipping GBP 79.99\nTax GBP 631.95\nTotal GBP 9,137.94",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-025",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000026_invoice-025.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "a4d3d28900a2c15ef8ac4dec34e29c6323f76823469c5d9957c17c529623c8eb"
+    }
+  },
+  {
+    "case_id": "invoice-026",
+    "source_id": "invoice-026",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-026-region.png",
+    "text": "Subtotal GBP 2,731.61\nShipping GBP 38.67\nTax GBP 204.87\nTotal GBP 2,975.15",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-026",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000027_invoice-026.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "50f40b9ef601ecbad9aa4859dbf0ad33937bce041d5509be86bc93023cfe2e63"
+    }
+  },
+  {
+    "case_id": "invoice-027",
+    "source_id": "invoice-027",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-027-region.png",
+    "text": "Subtotal GBP 15,257.97\nShipping GBP 45.36\nTax GBP 1,144.35\nTotal GBP 16,447.68",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-027",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000028_invoice-027.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "23b0fc3444d0814d30426795349528f9242d5b0ca4075338b88147ae42dc7040"
+    }
+  },
+  {
+    "case_id": "invoice-028",
+    "source_id": "invoice-028",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-028-region.png",
+    "text": "Subtotal GBP 7,467.04\nShipping GBP 66.01\nTax GBP 560.03\nTotal GBP 8,093.08",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-028",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000029_invoice-028.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "f41151f49c9538db573b2fa19b4a4b8021b35f0c10c51ce7864150682eba86e1"
+    }
+  },
+  {
+    "case_id": "invoice-029",
+    "source_id": "invoice-029",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-029-region.png",
+    "text": "Subtotal GBP 5,608.42\nShipping GBP 73.53\nTax GBP 420.63\nTotal GBP 6,102.58",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-029",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000030_invoice-029.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "e3c77b4289535afedbf674c318ac30a7e9a2b8aafa22d917f941dfcf6133af58"
+    }
+  },
+  {
+    "case_id": "invoice-030",
+    "source_id": "invoice-030",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-030-region.png",
+    "text": "Subtotal USD 5,945.97\nShipping USD 70.14\nTax USD 445.95\nTotal USD 6,462.06",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-030",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000031_invoice-030.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "ad18f8fab49fb3a4473ae0c4baaeb50824d4035d6013c0f73f3856fca731e584"
+    }
+  },
+  {
+    "case_id": "invoice-031",
+    "source_id": "invoice-031",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-031-region.png",
+    "text": "Subtotal USD 6,779.71\nShipping USD 86.37\nTax USD 508.48\nTotal USD 7,374.56",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-031",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000032_invoice-031.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "1bf174119bf8e62bc907f2715f2500e70509e394e15c683e3e0dc79e949fa040"
+    }
+  },
+  {
+    "case_id": "invoice-032",
+    "source_id": "invoice-032",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-032-region.png",
+    "text": "Subtotal USD 4,604.46\nShipping USD 54.13\nTax USD 345.33\nTotal USD 5,003.92",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-032",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000033_invoice-032.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "10e06d586f71bb318164ca0609f374899ea1d09d5247393b8654a8fc069a4748"
+    }
+  },
+  {
+    "case_id": "invoice-033",
+    "source_id": "invoice-033",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-033-region.png",
+    "text": "Subtotal USD 11,051.74\nShipping USD 39.96\nTax USD 828.88\nTotal USD 11,920.58",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-033",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000034_invoice-033.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "b46509bab29c86934f3dab9aa5c912593d07f164c0b3fac095f33893b0ba50c9"
+    }
+  },
+  {
+    "case_id": "invoice-034",
+    "source_id": "invoice-034",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-034-region.png",
+    "text": "Subtotal USD 5,317.09\nShipping USD 15.03\nTax USD 398.78\nTotal USD 5,730.90",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-034",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000035_invoice-034.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "b4fab04ec1e1c1aa957cdf3f1f76f71f48475246f0704287bcf19017a8aa208e"
+    }
+  },
+  {
+    "case_id": "invoice-035",
+    "source_id": "invoice-035",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-035-region.png",
+    "text": "Subtotal USD 13,908.12\nShipping USD 49.68\nTax USD 1,043.11\nTotal USD 15,000.91",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-035",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000036_invoice-035.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "19b25feeffeec1a230627f375207acd58e9bd9eea2fab4867e3675f88e2ffb27"
+    }
+  },
+  {
+    "case_id": "invoice-036",
+    "source_id": "invoice-036",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-036-region.png",
+    "text": "Subtotal USD 1,001.97\nShipping USD 15.21\nTax USD 75.15\nTotal USD 1,092.33",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-036",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000037_invoice-036.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "10a1697cedb074d297ec3c8475ad57b667cdd1699380ea18221c40ad64ff2d49"
+    }
+  },
+  {
+    "case_id": "invoice-037",
+    "source_id": "invoice-037",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-037-region.png",
+    "text": "Subtotal USD 10,843.54\nShipping USD 30.15\nTax USD 813.27\nTotal USD 11,686.94",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-037",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000038_invoice-037.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "6aea7607f45fffc51091def19acbf79f4c6489c3e3a3bb8cefc31a59b78aaa85"
+    }
+  },
+  {
+    "case_id": "invoice-038",
+    "source_id": "invoice-038",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-038-region.png",
+    "text": "Subtotal USD 3,057.50\nShipping USD 34.40\nTax USD 229.31\nTotal USD 3,321.21",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-038",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000039_invoice-038.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "f9caff69facf9775fc29f5eeba562aeff7a4474fe2d4f4a18d84b0a494d23254"
+    }
+  },
+  {
+    "case_id": "invoice-039",
+    "source_id": "invoice-039",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-039-region.png",
+    "text": "Subtotal USD 6,142.28\nShipping USD 46.66\nTax USD 460.67\nTotal USD 6,649.61",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-039",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000040_invoice-039.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "a6143d2926b80574cb5a9d3bc8e71ebafebfd24bae9a813d28c76448e0ff7fee"
+    }
+  },
+  {
+    "case_id": "invoice-040",
+    "source_id": "invoice-040",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-040-region.png",
+    "text": "Subtotal EUR 5,936.70\nShipping EUR 34.08\nTax EUR 445.25\nTotal EUR 6,416.03",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-040",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000041_invoice-040.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "9700e6264a4032337037dcf91fe9059bcd87cdc8b46e1bc2faf761cfd3d5dae4"
+    }
+  },
+  {
+    "case_id": "invoice-041",
+    "source_id": "invoice-041",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-041-region.png",
+    "text": "Subtotal EUR 2,500.06\nShipping EUR 50.00\nTax EUR 187.50\nTotal EUR 2,737.56",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-041",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000042_invoice-041.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "646063eaec3b39be9d626cb4abc9486c7cfa6584ca4bd08212a45d0ba02f92c5"
+    }
+  },
+  {
+    "case_id": "invoice-042",
+    "source_id": "invoice-042",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-042-region.png",
+    "text": "Subtotal EUR 2,753.66\nShipping EUR 16.69\nTax EUR 206.52\nTotal EUR 2,976.87",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-042",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000043_invoice-042.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "166d1e8a04c4e7346bd2acf5e028e320ddd6adce9e18c29f66dbf86d9ac1e801"
+    }
+  },
+  {
+    "case_id": "invoice-043",
+    "source_id": "invoice-043",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-043-region.png",
+    "text": "Subtotal EUR 8,411.92\nShipping EUR 44.11\nTax EUR 630.89\nTotal EUR 9,086.92",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-043",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000044_invoice-043.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "45a328a54dc021c535bbdd3f722e995f38e42cc1ebfffa4426c2441a67b8053f"
+    }
+  },
+  {
+    "case_id": "invoice-044",
+    "source_id": "invoice-044",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-044-region.png",
+    "text": "Subtotal EUR 4,324.94\nShipping EUR 59.59\nTax EUR 324.37\nTotal EUR 4,708.90",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-044",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000045_invoice-044.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "3af0244d0e111731a0e16ca801e3db2d26900a30f9b6c3fa190beca337c406d5"
+    }
+  },
+  {
+    "case_id": "invoice-045",
+    "source_id": "invoice-045",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-045-region.png",
+    "text": "Subtotal EUR 4,237.44\nShipping EUR 40.82\nTax EUR 317.81\nTotal EUR 4,596.07",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-045",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000046_invoice-045.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "9f0910b92159503bfd434144107549219848e4507d874c380be161567fe6fede"
+    }
+  },
+  {
+    "case_id": "invoice-046",
+    "source_id": "invoice-046",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-046-region.png",
+    "text": "Subtotal EUR 6,102.66\nShipping EUR 19.56\nTax EUR 457.70\nTotal EUR 6,579.92",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-046",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000047_invoice-046.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "57f8c5ef680180c40001ddeadd0921f720a1b24d242a8b232f28832db149bd26"
+    }
+  },
+  {
+    "case_id": "invoice-047",
+    "source_id": "invoice-047",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-047-region.png",
+    "text": "Subtotal EUR 4,965.97\nShipping EUR 50.91\nTax EUR 372.45\nTotal EUR 5,389.33",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-047",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000048_invoice-047.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "b3736382adb803fae1de750757aa875fd8de23e66f2d863bcd307723d3a4c9c9"
+    }
+  },
+  {
+    "case_id": "invoice-048",
+    "source_id": "invoice-048",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-048-region.png",
+    "text": "Subtotal EUR 6,958.24\nShipping EUR 60.29\nTax EUR 521.87\nTotal EUR 7,540.40",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-048",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000049_invoice-048.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "2d9415620c0014961bbca955bed5fd6819979990cb1e75f91afd619391831edd"
+    }
+  },
+  {
+    "case_id": "invoice-049",
+    "source_id": "invoice-049",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-049-region.png",
+    "text": "Subtotal EUR 2,488.41\nShipping EUR 73.34\nTax EUR 186.63\nTotal EUR 2,748.38",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-049",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000050_invoice-049.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "91ead140e2d05f1d8c8fda51ecdaa45e57e923bf4ccb4c5f0083d34d77c01888"
+    }
+  },
+  {
+    "case_id": "invoice-050",
+    "source_id": "invoice-050",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-050-region.png",
+    "text": "Subtotal GBP 5,386.25\nShipping GBP 71.86\nTax GBP 403.97\nTotal GBP 5,862.08",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-050",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000051_invoice-050.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "7ab8eb369707c29dd96ca70a1b5f59dfcfb73746afc398b070c21343ffa1c769"
+    }
+  },
+  {
+    "case_id": "invoice-051",
+    "source_id": "invoice-051",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-051-region.png",
+    "text": "Subtotal GBP 3,171.06\nShipping GBP 85.71\nTax GBP 237.83\nTotal GBP 3,494.60",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-051",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000052_invoice-051.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "89c8ff00eec8ee5d4e832afb7221f0436136cc78eea29d91aa5031587bda00a4"
+    }
+  },
+  {
+    "case_id": "invoice-052",
+    "source_id": "invoice-052",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-052-region.png",
+    "text": "Subtotal GBP 6,926.80\nShipping GBP 44.04\nTax GBP 519.51\nTotal GBP 7,490.35",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-052",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000053_invoice-052.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "93e33a79aaa5cb85b15ebeda87cd0c847ec6e7cdee64890a7a6f427244eebdc1"
+    }
+  },
+  {
+    "case_id": "invoice-053",
+    "source_id": "invoice-053",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-053-region.png",
+    "text": "Subtotal GBP 8,442.26\nShipping GBP 77.59\nTax GBP 633.17\nTotal GBP 9,153.02",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-053",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000054_invoice-053.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "75f53a48f01f471e563c0e46e3bc202802df34220aa912116fa7772854b7ab28"
+    }
+  },
+  {
+    "case_id": "invoice-054",
+    "source_id": "invoice-054",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-054-region.png",
+    "text": "Subtotal GBP 5,638.77\nShipping GBP 51.87\nTax GBP 422.91\nTotal GBP 6,113.55",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-054",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000055_invoice-054.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "c14119ffbc0bc537728471ecabcb78d52a664035857f5feaee5a3139ab4feef4"
+    }
+  },
+  {
+    "case_id": "invoice-055",
+    "source_id": "invoice-055",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-055-region.png",
+    "text": "Subtotal GBP 6,212.63\nShipping GBP 35.86\nTax GBP 465.95\nTotal GBP 6,714.44",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-055",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000056_invoice-055.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "5f75fb9a8c1a95fcb196ab57cb282917038f943af38d686419070e460e604d8a"
+    }
+  },
+  {
+    "case_id": "invoice-056",
+    "source_id": "invoice-056",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-056-region.png",
+    "text": "Subtotal GBP 5,231.12\nShipping GBP 72.02\nTax GBP 392.33\nTotal GBP 5,695.47",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-056",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000057_invoice-056.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "3da41e553ca6c54b1ff586e98b424496a7d484a7e52aa60d5a0dcff6e4c93e85"
+    }
+  },
+  {
+    "case_id": "invoice-057",
+    "source_id": "invoice-057",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-057-region.png",
+    "text": "Subtotal GBP 5,973.78\nShipping GBP 50.24\nTax GBP 448.03\nTotal GBP 6,472.05",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-057",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000058_invoice-057.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "646b2e3f0f14c585a8e8b05d788a18ae05c37b4a29eae52c0698e8edc39dd21c"
+    }
+  },
+  {
+    "case_id": "invoice-058",
+    "source_id": "invoice-058",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-058-region.png",
+    "text": "Subtotal GBP 5,139.08\nShipping GBP 86.34\nTax GBP 385.43\nTotal GBP 5,610.85",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-058",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000059_invoice-058.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "fcfd211018240203d7989c9d139edc8468e0e493637b7cf6b6502f13aad81468"
+    }
+  },
+  {
+    "case_id": "invoice-059",
+    "source_id": "invoice-059",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-059-region.png",
+    "text": "Subtotal GBP 4,762.36\nShipping GBP 24.35\nTax GBP 357.18\nTotal GBP 5,143.89",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-059",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000060_invoice-059.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "f6b2831f8685b8a4285f093f2c714b1f6758c0cebc8d44dd3af0cd86c8caa97f"
+    }
+  },
+  {
+    "case_id": "invoice-060",
+    "source_id": "invoice-060",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-060-region.png",
+    "text": "Subtotal USD 6,952.02\nShipping USD 59.38\nTax USD 521.40\nTotal USD 7,532.80",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-060",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000061_invoice-060.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "9533f319adbc78e891d2b9db6f827ebcf714d9c9bec5f0269c83ce03c0d5e0a3"
+    }
+  },
+  {
+    "case_id": "invoice-061",
+    "source_id": "invoice-061",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-061-region.png",
+    "text": "Subtotal USD 2,802.16\nShipping USD 68.72\nTax USD 210.16\nTotal USD 3,081.04",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-061",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000062_invoice-061.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "29e6b1cb8013db6c943ac1a7f47e602a4ac47e6a43a03bfd1fca36a0b83d124e"
+    }
+  },
+  {
+    "case_id": "invoice-062",
+    "source_id": "invoice-062",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-062-region.png",
+    "text": "Subtotal USD 10,971.58\nShipping USD 51.44\nTax USD 822.87\nTotal USD 11,845.89",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-062",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000063_invoice-062.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "e8436e014476d4bf9a21384dcd007c996d298dd95c349477421ee79a2d72a181"
+    }
+  },
+  {
+    "case_id": "invoice-063",
+    "source_id": "invoice-063",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-063-region.png",
+    "text": "Subtotal USD 5,249.38\nShipping USD 15.21\nTax USD 393.70\nTotal USD 5,658.29",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-063",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000064_invoice-063.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "2f2f8c1f9d10aa60ad7fcbc3075ba5f60a2b1dd06b70df1a053c87674add5024"
+    }
+  },
+  {
+    "case_id": "invoice-064",
+    "source_id": "invoice-064",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-064-region.png",
+    "text": "Subtotal USD 5,990.57\nShipping USD 80.24\nTax USD 449.29\nTotal USD 6,520.10",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-064",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000065_invoice-064.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "002edfdcca0f1ddb0faf76fe05a1c0afffeac2af1df7db542a8b85555cdad846"
+    }
+  },
+  {
+    "case_id": "invoice-065",
+    "source_id": "invoice-065",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-065-region.png",
+    "text": "Subtotal USD 8,669.15\nShipping USD 76.99\nTax USD 650.19\nTotal USD 9,396.33",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-065",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000066_invoice-065.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "a1be87ab5684e9bdeac055be448187ff7285c056d6d346b21232acc62644c969"
+    }
+  },
+  {
+    "case_id": "invoice-066",
+    "source_id": "invoice-066",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-066-region.png",
+    "text": "Subtotal USD 8,529.44\nShipping USD 33.23\nTax USD 639.71\nTotal USD 9,202.38",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-066",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000067_invoice-066.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "d8854e56cfdff31bdcd77996ef43913d94c77ca0ceb3ff2ccac549a68ff6d899"
+    }
+  },
+  {
+    "case_id": "invoice-067",
+    "source_id": "invoice-067",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-067-region.png",
+    "text": "Subtotal USD 3,182.88\nShipping USD 87.04\nTax USD 238.72\nTotal USD 3,508.64",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-067",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000068_invoice-067.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "edb11ccc71f292a30b38aed5eb7fd5fdd95124ff9314f37c49eb20a4e6a4d998"
+    }
+  },
+  {
+    "case_id": "invoice-068",
+    "source_id": "invoice-068",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-068-region.png",
+    "text": "Subtotal USD 2,828.22\nShipping USD 40.90\nTax USD 212.12\nTotal USD 3,081.24",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-068",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000069_invoice-068.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "b199c5f5cb55d72c3eca3ed2107c24339f1fe2265d0dca7bdd36b3f9f68ab3e2"
+    }
+  },
+  {
+    "case_id": "invoice-069",
+    "source_id": "invoice-069",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-069-region.png",
+    "text": "Subtotal USD 15,372.73\nShipping USD 26.57\nTax USD 1,152.95\nTotal USD 16,552.25",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-069",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000070_invoice-069.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "d109f2f1f3a801c85a78e6d4ea771619103cb438919cbc47eb76722722df551d"
+    }
+  },
+  {
+    "case_id": "invoice-070",
+    "source_id": "invoice-070",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-070-region.png",
+    "text": "Subtotal EUR 3,747.26\nShipping EUR 91.65\nTax EUR 281.04\nTotal EUR 4,119.95",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-070",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000071_invoice-070.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "b0d50fe34afe1b1deb88113ffee5b2ccc38dcceb10f25d4f7b9f32a92d191133"
+    }
+  },
+  {
+    "case_id": "invoice-071",
+    "source_id": "invoice-071",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-071-region.png",
+    "text": "Subtotal EUR 6,548.20\nShipping EUR 27.25\nTax EUR 491.12\nTotal EUR 7,066.57",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-071",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000072_invoice-071.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "7fc94219e5269fb6adac26c0bea4b36f67b4db4a26ad9ec303825e99730198d1"
+    }
+  },
+  {
+    "case_id": "invoice-072",
+    "source_id": "invoice-072",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-072-region.png",
+    "text": "Subtotal EUR 8,750.03\nShipping EUR 77.29\nTax EUR 656.25\nTotal EUR 9,483.57",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-072",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000073_invoice-072.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "cdccc70f1c3e8af42e1c379da7d5486e3fb3ba02d5c0cd24c2bc22587a90cd13"
+    }
+  },
+  {
+    "case_id": "invoice-073",
+    "source_id": "invoice-073",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-073-region.png",
+    "text": "Subtotal EUR 1,606.01\nShipping EUR 16.13\nTax EUR 120.45\nTotal EUR 1,742.59",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-073",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000074_invoice-073.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "3f733bd8722ce3ed784515a0fbf2cc641f5a3853ca3c00fb18b7956b65960057"
+    }
+  },
+  {
+    "case_id": "invoice-074",
+    "source_id": "invoice-074",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-074-region.png",
+    "text": "Subtotal EUR 6,014.80\nShipping EUR 21.96\nTax EUR 451.11\nTotal EUR 6,487.87",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-074",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000075_invoice-074.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "53df3230e8f76e73215afb85c4c8f56df2da224e80e3c5ce7e9a671e60dd66fc"
+    }
+  },
+  {
+    "case_id": "invoice-075",
+    "source_id": "invoice-075",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-075-region.png",
+    "text": "Subtotal EUR 2,157.32\nShipping EUR 62.41\nTax EUR 161.80\nTotal EUR 2,381.53",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-075",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000076_invoice-075.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "f394c69b65223ce3e306ea2ae2906f1931122a9484a7220e1d4ac403825dad61"
+    }
+  },
+  {
+    "case_id": "invoice-076",
+    "source_id": "invoice-076",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-076-region.png",
+    "text": "Subtotal EUR 6,652.06\nShipping EUR 13.65\nTax EUR 498.90\nTotal EUR 7,164.61",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-076",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000077_invoice-076.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "592ea9d8499958db160a31a28972120c539124571ab157bb1525769632c1625d"
+    }
+  },
+  {
+    "case_id": "invoice-077",
+    "source_id": "invoice-077",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-077-region.png",
+    "text": "Subtotal EUR 6,696.33\nShipping EUR 45.60\nTax EUR 502.22\nTotal EUR 7,244.15",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-077",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000078_invoice-077.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "c660056ecff299a13c1545e028b593078e8a57c6efc95e943e270ee832c5243f"
+    }
+  },
+  {
+    "case_id": "invoice-078",
+    "source_id": "invoice-078",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-078-region.png",
+    "text": "Subtotal EUR 1,443.28\nShipping EUR 62.58\nTax EUR 108.25\nTotal EUR 1,614.11",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-078",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000079_invoice-078.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "933471d3274702fb519ae30db782b7eec230110cd5f0ebea0c9c0d9aecd4321e"
+    }
+  },
+  {
+    "case_id": "invoice-079",
+    "source_id": "invoice-079",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-079-region.png",
+    "text": "Subtotal EUR 9,608.00\nShipping EUR 24.27\nTax EUR 720.60\nTotal EUR 10,352.87",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-079",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000080_invoice-079.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "021c9cd2dc5f22617a571e051a1c42c9dfd1a7f91e0c751baf050961bd5eb3ed"
+    }
+  },
+  {
+    "case_id": "invoice-080",
+    "source_id": "invoice-080",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-080-region.png",
+    "text": "Subtotal GBP 6,525.99\nShipping GBP 57.41\nTax GBP 489.45\nTotal GBP 7,072.85",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-080",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000081_invoice-080.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "f0392f47d0834c0d8d6d346c6297e970ddc4a0f748fa0c8ce3b0fa64d2de5dda"
+    }
+  },
+  {
+    "case_id": "invoice-081",
+    "source_id": "invoice-081",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-081-region.png",
+    "text": "Subtotal GBP 2,265.73\nShipping GBP 46.74\nTax GBP 169.93\nTotal GBP 2,482.40",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-081",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000082_invoice-081.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "69c7fdcc0b1b49efc4c8292355431bfb8f5af4ed01091ac64e3ca1804a2b20e0"
+    }
+  },
+  {
+    "case_id": "invoice-082",
+    "source_id": "invoice-082",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-082-region.png",
+    "text": "Subtotal GBP 10,065.58\nShipping GBP 71.32\nTax GBP 754.92\nTotal GBP 10,891.82",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-082",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000083_invoice-082.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "f51e06761e2403398be20755434a67903fcb07a316eaa29e93ba2cb23a48d0fc"
+    }
+  },
+  {
+    "case_id": "invoice-083",
+    "source_id": "invoice-083",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-083-region.png",
+    "text": "Subtotal GBP 3,981.17\nShipping GBP 77.63\nTax GBP 298.59\nTotal GBP 4,357.39",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-083",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000084_invoice-083.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "85f8386fa4f24ee1d7f11df9772eb633180adcc7351e017b5333c3ce936101a1"
+    }
+  },
+  {
+    "case_id": "invoice-084",
+    "source_id": "invoice-084",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-084-region.png",
+    "text": "Subtotal GBP 8,038.50\nShipping GBP 84.58\nTax GBP 602.89\nTotal GBP 8,725.97",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-084",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000085_invoice-084.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "67895bb3682ecc5cb19c40debeeecd8450b227c2db52d019d788932876b5116c"
+    }
+  },
+  {
+    "case_id": "invoice-085",
+    "source_id": "invoice-085",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-085-region.png",
+    "text": "Subtotal GBP 2,814.39\nShipping GBP 86.69\nTax GBP 211.08\nTotal GBP 3,112.16",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-085",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000086_invoice-085.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "544ecc2ca3c90e52a9a513a03db2b4ab1a6ea9fa6574e60ebd2fc9c0fe720702"
+    }
+  },
+  {
+    "case_id": "invoice-086",
+    "source_id": "invoice-086",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-086-region.png",
+    "text": "Subtotal GBP 6,790.03\nShipping GBP 53.40\nTax GBP 509.25\nTotal GBP 7,352.68",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-086",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000087_invoice-086.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "029896e9d62da228f92b587fb41d5627718daea1e4601cd576eba0831a376fed"
+    }
+  },
+  {
+    "case_id": "invoice-087",
+    "source_id": "invoice-087",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-087-region.png",
+    "text": "Subtotal GBP 7,281.64\nShipping GBP 66.15\nTax GBP 546.12\nTotal GBP 7,893.91",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-087",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000088_invoice-087.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "0363278f44e5aa04e256217b50df57dac60d11aa5897910fc384b28ec060542b"
+    }
+  },
+  {
+    "case_id": "invoice-088",
+    "source_id": "invoice-088",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-088-region.png",
+    "text": "Subtotal GBP 10,327.42\nShipping GBP 39.63\nTax GBP 774.56\nTotal GBP 11,141.61",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-088",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000089_invoice-088.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "1b0b0974849875574cff3e7165f3cac98ed019acf95eff306d0332cc487c8bd4"
+    }
+  },
+  {
+    "case_id": "invoice-089",
+    "source_id": "invoice-089",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-089-region.png",
+    "text": "Subtotal GBP 1,691.60\nShipping GBP 36.63\nTax GBP 126.87\nTotal GBP 1,855.10",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-089",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000090_invoice-089.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "13199cc6ddf2113951902808be37e615c7b8d95f112dde373a96ab19285938f3"
+    }
+  },
+  {
+    "case_id": "invoice-090",
+    "source_id": "invoice-090",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-090-region.png",
+    "text": "Subtotal USD 3,961.40\nShipping USD 13.48\nTax USD 297.10\nTotal USD 4,271.98",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-090",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000091_invoice-090.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "e9e6c253fa9f806bbab84aaa0cafbf8b0008e996f5a11fef1ea0ca8a2f84c4f0"
+    }
+  },
+  {
+    "case_id": "invoice-091",
+    "source_id": "invoice-091",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-091-region.png",
+    "text": "Subtotal USD 13,062.14\nShipping USD 13.69\nTax USD 979.66\nTotal USD 14,055.49",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-091",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000092_invoice-091.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "12dae13dfb2afcb9738e8de9a931ee5a8c606aa5732f7d8d388fe44114b209a6"
+    }
+  },
+  {
+    "case_id": "invoice-092",
+    "source_id": "invoice-092",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-092-region.png",
+    "text": "Subtotal USD 8,636.34\nShipping USD 29.44\nTax USD 647.73\nTotal USD 9,313.51",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-092",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000093_invoice-092.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "feec093318059a72a911f80abe300cbe0410e1aaa80608e4e2604c27c4be4e4b"
+    }
+  },
+  {
+    "case_id": "invoice-093",
+    "source_id": "invoice-093",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-093-region.png",
+    "text": "Subtotal USD 6,150.83\nShipping USD 18.73\nTax USD 461.31\nTotal USD 6,630.87",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-093",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000094_invoice-093.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "04d39cbab0d6e289a02393de40aac6952ca51900f6e4cdfb4a3ec781528e6dfc"
+    }
+  },
+  {
+    "case_id": "invoice-094",
+    "source_id": "invoice-094",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-094-region.png",
+    "text": "Subtotal USD 8,732.42\nShipping USD 62.55\nTax USD 654.93\nTotal USD 9,449.90",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-094",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000095_invoice-094.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "6fe208c8fc7e248639d31a5ea7b85d98d68d901f1fa7708cb71951db1b1c592b"
+    }
+  },
+  {
+    "case_id": "invoice-095",
+    "source_id": "invoice-095",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-095-region.png",
+    "text": "Subtotal USD 7,312.35\nShipping USD 57.91\nTax USD 548.43\nTotal USD 7,918.69",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-095",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000096_invoice-095.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "273cf0fd8257368601e90bf844bcf9339b9f12bf472c19ce32c9eb3365f279a7"
+    }
+  },
+  {
+    "case_id": "invoice-096",
+    "source_id": "invoice-096",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-096-region.png",
+    "text": "Subtotal USD 5,953.75\nShipping USD 68.65\nTax USD 446.53\nTotal USD 6,468.93",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-096",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000097_invoice-096.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "4359974ccef9d3f0a5f2c39eec65da4bfc7bed9fc50ad4eae56d9e3d6792e364"
+    }
+  },
+  {
+    "case_id": "invoice-097",
+    "source_id": "invoice-097",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-097-region.png",
+    "text": "Subtotal USD 6,516.18\nShipping USD 15.02\nTax USD 486.71\nTotal USD 7,019.91",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-097",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000098_invoice-097.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "7cbee2ee66e5f7206985f893db1f62b6edd36098bd48041d1be3d89678a5b6e1"
+    }
+  },
+  {
+    "case_id": "invoice-098",
+    "source_id": "invoice-098",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-098-region.png",
+    "text": "Subtotal USD 7,371.01\nShipping USD 82.10\nTax USD 552.83\nTotal USD 8,005.94",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-098",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000099_invoice-098.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "d67cbb8770558944c6f74e9613e25eaaba73fe56e511e5d5f7c235fafa80b614"
+    }
+  },
+  {
+    "case_id": "invoice-099",
+    "source_id": "invoice-099",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-099-region.png",
+    "text": "Subtotal USD 4,829.81\nShipping USD 80.63\nTax USD 362.24\nTotal USD 5,272.68",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-099",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000100_invoice-099.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "3419892f7e6139c80b35ae09d912361a7e7958bd2fa493f4727a18031d3ed20f"
+    }
+  },
+  {
+    "case_id": "invoice-100",
+    "source_id": "invoice-100",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-100-region.png",
+    "text": "Subtotal EUR 1,982.99\nShipping EUR 43.97\nTax EUR 148.72\nTotal EUR 2,175.68",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-100",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000101_invoice-100.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "795b4249de6e1b7316f6cb532948b42a2c1e20d44c121e0f0119bafedfbb9cb3"
+    }
+  },
+  {
+    "case_id": "invoice-101",
+    "source_id": "invoice-101",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-101-region.png",
+    "text": "Subtotal EUR 7,740.46\nShipping EUR 90.80\nTax EUR 580.53\nTotal EUR 8,411.79",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-101",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000102_invoice-101.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "2e97295ccfd6bd1996deca06bae33cde6abf1b81b1b275d954d711ca2d3dedc5"
+    }
+  },
+  {
+    "case_id": "invoice-102",
+    "source_id": "invoice-102",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-102-region.png",
+    "text": "Subtotal EUR 6,990.02\nShipping EUR 36.53\nTax EUR 524.25\nTotal EUR 7,550.80",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-102",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000103_invoice-102.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "c1dd902e1dc32b96c6562c58c5ce4938b1634b3ad5941303590b61b12e2477eb"
+    }
+  },
+  {
+    "case_id": "invoice-103",
+    "source_id": "invoice-103",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-103-region.png",
+    "text": "Subtotal EUR 9,656.48\nShipping EUR 25.27\nTax EUR 724.24\nTotal EUR 10,405.99",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-103",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000104_invoice-103.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "f19626892069a8f84ad97c0ba475c006ea1a19ab957863f5c0c9d55399286f48"
+    }
+  },
+  {
+    "case_id": "invoice-104",
+    "source_id": "invoice-104",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-104-region.png",
+    "text": "Subtotal EUR 6,086.95\nShipping EUR 49.40\nTax EUR 456.52\nTotal EUR 6,592.87",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-104",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000105_invoice-104.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "87fe473346f04d221e29b4590a62ddc36a4b84a095409dc59bbabc3d690fe497"
+    }
+  },
+  {
+    "case_id": "invoice-105",
+    "source_id": "invoice-105",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-105-region.png",
+    "text": "Subtotal EUR 1,172.85\nShipping EUR 51.09\nTax EUR 87.96\nTotal EUR 1,311.90",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-105",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000106_invoice-105.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "b1dde5134a0ebed14525e2218ff26fa703df4215ffe2c3e2bae5f9237b95e1b2"
+    }
+  },
+  {
+    "case_id": "invoice-106",
+    "source_id": "invoice-106",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-106-region.png",
+    "text": "Subtotal EUR 11,632.54\nShipping EUR 27.93\nTax EUR 872.44\nTotal EUR 12,532.91",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-106",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000107_invoice-106.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "89164c612561cb582bcde8fedb099951acebd6cf82b7b2d9cc50bd78a7b1c1bf"
+    }
+  },
+  {
+    "case_id": "invoice-107",
+    "source_id": "invoice-107",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-107-region.png",
+    "text": "Subtotal EUR 7,309.56\nShipping EUR 36.86\nTax EUR 554.97\nTotal EUR 7,991.39",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-107",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000108_invoice-107.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "2c3ebaf62bfd9badcf231a3882879a14e18fa1cb44a215707173f0e0a0037fb4"
+    }
+  },
+  {
+    "case_id": "invoice-108",
+    "source_id": "invoice-108",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-108-region.png",
+    "text": "Subtotal EUR 6,806.79\nShipping EUR 46.21\nTax EUR 510.51\nTotal EUR 7,363.51",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-108",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000109_invoice-108.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "5dfadc39c5177a554d3d207e4b43f255cfecf5c8cb862d9c9a2707efb3ec2180"
+    }
+  },
+  {
+    "case_id": "invoice-109",
+    "source_id": "invoice-109",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-109-region.png",
+    "text": "Subtotal EUR 4,909.66\nShipping EUR 53.58\nTax EUR 368.22\nTotal EUR 5,331.46",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-109",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000110_invoice-109.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "498dd6b81eb8bfde451fa1257662a5c7f406eaaa4016917e19d6f40234445efb"
+    }
+  },
+  {
+    "case_id": "invoice-110",
+    "source_id": "invoice-110",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-110-region.png",
+    "text": "Subtotal GBP 9,666.55\nShipping GBP 62.24\nTax GBP 724.99\nTotal GBP 10,453.78",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-110",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000111_invoice-110.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "c9d413eea0f46c28eec914698a2081724edb602d06305131832479b6f271316e"
+    }
+  },
+  {
+    "case_id": "invoice-111",
+    "source_id": "invoice-111",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-111-region.png",
+    "text": "Subtotal GBP 4,538.10\nShipping GBP 15.70\nTax GBP 340.36\nTotal GBP 4,894.16",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-111",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000112_invoice-111.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "6988ce0b38282a4d10a011824dfceb73817578360d222888833a7382099cf0a2"
+    }
+  },
+  {
+    "case_id": "invoice-112",
+    "source_id": "invoice-112",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-112-region.png",
+    "text": "Subtotal GBP 4,025.31\nShipping GBP 41.05\nTax GBP 301.90\nTotal GBP 4,368.26",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-112",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000113_invoice-112.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "3824028a83341743ff743afe2e1c70eb4fdacc1660e336bd7569fb77892e3971"
+    }
+  },
+  {
+    "case_id": "invoice-113",
+    "source_id": "invoice-113",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-113-region.png",
+    "text": "Subtotal GBP 3,968.51\nShipping GBP 47.88\nTax GBP 297.64\nTotal GBP 4,314.03",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-113",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000114_invoice-113.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "ff36ae34b2ca5093ba20c847f3ca66b8c198f658b73d4ef7dc010da04433818c"
+    }
+  },
+  {
+    "case_id": "invoice-114",
+    "source_id": "invoice-114",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-114-region.png",
+    "text": "Subtotal GBP 10,312.35\nShipping GBP 13.78\nTax GBP 773.43\nTotal GBP 11,099.56",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-114",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000115_invoice-114.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "7614f10a8aa8942473b98bc929c43659fd2257294c7dcc5b116197c2c5dacc7c"
+    }
+  },
+  {
+    "case_id": "invoice-115",
+    "source_id": "invoice-115",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-115-region.png",
+    "text": "Subtotal GBP 8,235.77\nShipping GBP 64.93\nTax GBP 617.68\nTotal GBP 8,918.38",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-115",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000116_invoice-115.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "ddff910045d5487e01f5c1969b13ecf2168b6fb2682c9715e4ac93487ecc683d"
+    }
+  },
+  {
+    "case_id": "invoice-116",
+    "source_id": "invoice-116",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-116-region.png",
+    "text": "Subtotal GBP 6,957.98\nShipping GBP 90.88\nTax GBP 521.85\nTotal GBP 7,570.71",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-116",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000117_invoice-116.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "f7a52532b2ecd8c384a6cfdb93c3296718f3c4e0433e72b7fd579988aa278283"
+    }
+  },
+  {
+    "case_id": "invoice-117",
+    "source_id": "invoice-117",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-117-region.png",
+    "text": "Subtotal GBP 4,991.61\nShipping GBP 17.19\nTax GBP 376.37\nTotal GBP 5,383.17",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-117",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000118_invoice-117.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "469ef7fbedf58796e9cf17024d52ffe732f623f2f768aa37419f5bf0459bf9d6"
+    }
+  },
+  {
+    "case_id": "invoice-118",
+    "source_id": "invoice-118",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-118-region.png",
+    "text": "Subtotal GBP 8,183.40\nShipping GBP 40.06\nTax GBP 613.76\nTotal GBP 8,837.22",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-118",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000119_invoice-118.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "9645360f31e93950d3566b515be0990a5f7d16909842a2603660021cd52dc303"
+    }
+  },
+  {
+    "case_id": "invoice-119",
+    "source_id": "invoice-119",
+    "set": "natural",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-119-region.png",
+    "text": "Subtotal GBP 8,803.33\nShipping GBP 73.27\nTax GBP 660.25\nTotal GBP 9,536.85",
+    "ocr_error": null,
+    "render": {
+      "case_id": "invoice-119",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000120_invoice-119.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "3b06083a139c968480465a6e7358799d91a5e1f1435ff971183bc91d7b82369b"
+    }
+  },
+  {
+    "case_id": "invoice-000-reference",
+    "source_id": "invoice-000",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-000-region.png",
+    "text": "Subtotal USD 11,017.48\nShipping USD 68.00\nTax USD 826.31\nTotal USD 11,911.79",
+    "injected_error": false,
+    "mutation": "reference",
+    "render": {
+      "case_id": "invoice-000-reference",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000121_invoice-000-reference.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "cbc4a489498330c99798350170d689ab5915a584ec9aeda50239d3e9bfbc8144"
+    }
+  },
+  {
+    "case_id": "invoice-000-total_digit",
+    "source_id": "invoice-000",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-000-region.png",
+    "text": "Subtotal USD 11,017.48\nShipping USD 68.00\nTax USD 826.31\nTotal USD 12,011.79",
+    "injected_error": true,
+    "mutation": "total_digit",
+    "render": {
+      "case_id": "invoice-000-total_digit",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000122_invoice-000-total_digit.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "3f0dad806d9182629023c96d1bebe12cd27a86b29696e2237ed4b7737971fa20"
+    }
+  },
+  {
+    "case_id": "invoice-000-currency",
+    "source_id": "invoice-000",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-000-region.png",
+    "text": "Subtotal JPY 11,017.48\nShipping JPY 68.00\nTax JPY 826.31\nTotal JPY 11,911.79",
+    "injected_error": true,
+    "mutation": "currency",
+    "render": {
+      "case_id": "invoice-000-currency",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000123_invoice-000-currency.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "200d99c61d8399d71f9cc011a7866bb3ecd9899680f6ea0a12886398ca39ee73"
+    }
+  },
+  {
+    "case_id": "invoice-000-consistent_amounts",
+    "source_id": "invoice-000",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-000-region.png",
+    "text": "Subtotal USD 110,174.80\nShipping USD 680.00\nTax USD 8,263.10\nTotal USD 119,117.90",
+    "injected_error": true,
+    "mutation": "consistent_amounts",
+    "render": {
+      "case_id": "invoice-000-consistent_amounts",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000124_invoice-000-consistent_amounts.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "ebf1fa21cbb25671cab785974197830d64e6e2826a93b0c3f3adfec7cefe5167"
+    }
+  },
+  {
+    "case_id": "invoice-010-reference",
+    "source_id": "invoice-010",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-010-region.png",
+    "text": "Subtotal EUR 4,014.50\nShipping EUR 77.46\nTax EUR 301.09\nTotal EUR 4,393.05",
+    "injected_error": false,
+    "mutation": "reference",
+    "render": {
+      "case_id": "invoice-010-reference",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000125_invoice-010-reference.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "e2265210c6f076bbd11473e4111a86cc17aa3245af6d6cc9aa2cd777be86f995"
+    }
+  },
+  {
+    "case_id": "invoice-010-total_digit",
+    "source_id": "invoice-010",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-010-region.png",
+    "text": "Subtotal EUR 4,014.50\nShipping EUR 77.46\nTax EUR 301.09\nTotal EUR 4,493.05",
+    "injected_error": true,
+    "mutation": "total_digit",
+    "render": {
+      "case_id": "invoice-010-total_digit",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000126_invoice-010-total_digit.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "eb7ab89f6cacc05fe289d09e5de02d58a6da15143d68dc0e66a886225a831952"
+    }
+  },
+  {
+    "case_id": "invoice-010-currency",
+    "source_id": "invoice-010",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-010-region.png",
+    "text": "Subtotal JPY 4,014.50\nShipping JPY 77.46\nTax JPY 301.09\nTotal JPY 4,393.05",
+    "injected_error": true,
+    "mutation": "currency",
+    "render": {
+      "case_id": "invoice-010-currency",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000127_invoice-010-currency.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "273972382defb022ee6c73f6f04d1f7ca6c10c5aa90a848a64336bf3ec5c5e01"
+    }
+  },
+  {
+    "case_id": "invoice-010-consistent_amounts",
+    "source_id": "invoice-010",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-010-region.png",
+    "text": "Subtotal EUR 40,145.00\nShipping EUR 774.60\nTax EUR 3,010.90\nTotal EUR 43,930.50",
+    "injected_error": true,
+    "mutation": "consistent_amounts",
+    "render": {
+      "case_id": "invoice-010-consistent_amounts",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000128_invoice-010-consistent_amounts.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "e5a9496aa3d4b0bd570e576eb4a79e9019793ed9dfaeb73454474001ad12a7d0"
+    }
+  },
+  {
+    "case_id": "invoice-020-reference",
+    "source_id": "invoice-020",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-020-region.png",
+    "text": "Subtotal GBP 2,811.10\nShipping GBP 54.13\nTax GBP 210.83\nTotal GBP 3,076.06",
+    "injected_error": false,
+    "mutation": "reference",
+    "render": {
+      "case_id": "invoice-020-reference",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000129_invoice-020-reference.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "cd76ecbcce3f33a8ec00aef8abf008ca1bdb248242920cd2d4946bf9637c1e31"
+    }
+  },
+  {
+    "case_id": "invoice-020-total_digit",
+    "source_id": "invoice-020",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-020-region.png",
+    "text": "Subtotal GBP 2,811.10\nShipping GBP 54.13\nTax GBP 210.83\nTotal GBP 3,176.06",
+    "injected_error": true,
+    "mutation": "total_digit",
+    "render": {
+      "case_id": "invoice-020-total_digit",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000130_invoice-020-total_digit.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "d0a71f22b8cadaed5f873990b1264faf760bd543201c92a6c18ff1cd06d2c461"
+    }
+  },
+  {
+    "case_id": "invoice-020-currency",
+    "source_id": "invoice-020",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-020-region.png",
+    "text": "Subtotal JPY 2,811.10\nShipping JPY 54.13\nTax JPY 210.83\nTotal JPY 3,076.06",
+    "injected_error": true,
+    "mutation": "currency",
+    "render": {
+      "case_id": "invoice-020-currency",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000131_invoice-020-currency.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "09377dd161556d4adcf04fa624fbda85f4eb4b98155486524b01d584772110f1"
+    }
+  },
+  {
+    "case_id": "invoice-020-consistent_amounts",
+    "source_id": "invoice-020",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-020-region.png",
+    "text": "Subtotal GBP 28,111.00\nShipping GBP 541.30\nTax GBP 2,108.30\nTotal GBP 30,760.60",
+    "injected_error": true,
+    "mutation": "consistent_amounts",
+    "render": {
+      "case_id": "invoice-020-consistent_amounts",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000132_invoice-020-consistent_amounts.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "6ae89355c845f754f59729f1baefcbffcaa5d6026330654405adce4d5f7f2e31"
+    }
+  },
+  {
+    "case_id": "invoice-030-reference",
+    "source_id": "invoice-030",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-030-region.png",
+    "text": "Subtotal USD 5,945.97\nShipping USD 70.14\nTax USD 445.95\nTotal USD 6,462.06",
+    "injected_error": false,
+    "mutation": "reference",
+    "render": {
+      "case_id": "invoice-030-reference",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000133_invoice-030-reference.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "ad18f8fab49fb3a4473ae0c4baaeb50824d4035d6013c0f73f3856fca731e584"
+    }
+  },
+  {
+    "case_id": "invoice-030-total_digit",
+    "source_id": "invoice-030",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-030-region.png",
+    "text": "Subtotal USD 5,945.97\nShipping USD 70.14\nTax USD 445.95\nTotal USD 6,562.06",
+    "injected_error": true,
+    "mutation": "total_digit",
+    "render": {
+      "case_id": "invoice-030-total_digit",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000134_invoice-030-total_digit.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "ed198dfb030861e2778a1ab2ab330cd97fb149115d7708cadba71419bf8f5940"
+    }
+  },
+  {
+    "case_id": "invoice-030-currency",
+    "source_id": "invoice-030",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-030-region.png",
+    "text": "Subtotal JPY 5,945.97\nShipping JPY 70.14\nTax JPY 445.95\nTotal JPY 6,462.06",
+    "injected_error": true,
+    "mutation": "currency",
+    "render": {
+      "case_id": "invoice-030-currency",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000135_invoice-030-currency.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "21a1f7c865a013f3b843c4bdec84e3539d59769c34950d4a1c720a3863deff2b"
+    }
+  },
+  {
+    "case_id": "invoice-030-consistent_amounts",
+    "source_id": "invoice-030",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-030-region.png",
+    "text": "Subtotal USD 59,459.70\nShipping USD 701.40\nTax USD 4,459.50\nTotal USD 64,620.60",
+    "injected_error": true,
+    "mutation": "consistent_amounts",
+    "render": {
+      "case_id": "invoice-030-consistent_amounts",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000136_invoice-030-consistent_amounts.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "3e360cebe4a4ab8358bd5210b0e102c37b0e8d29358961bf7de73adb20d750f5"
+    }
+  },
+  {
+    "case_id": "invoice-040-reference",
+    "source_id": "invoice-040",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-040-region.png",
+    "text": "Subtotal EUR 5,936.70\nShipping EUR 34.08\nTax EUR 445.25\nTotal EUR 6,416.03",
+    "injected_error": false,
+    "mutation": "reference",
+    "render": {
+      "case_id": "invoice-040-reference",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000137_invoice-040-reference.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "9700e6264a4032337037dcf91fe9059bcd87cdc8b46e1bc2faf761cfd3d5dae4"
+    }
+  },
+  {
+    "case_id": "invoice-040-total_digit",
+    "source_id": "invoice-040",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-040-region.png",
+    "text": "Subtotal EUR 5,936.70\nShipping EUR 34.08\nTax EUR 445.25\nTotal EUR 6,516.03",
+    "injected_error": true,
+    "mutation": "total_digit",
+    "render": {
+      "case_id": "invoice-040-total_digit",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000138_invoice-040-total_digit.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "d5c490e21df1fedf07232ee047d69b99846bd04c1069d5294541ffaeb7acd5ef"
+    }
+  },
+  {
+    "case_id": "invoice-040-currency",
+    "source_id": "invoice-040",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-040-region.png",
+    "text": "Subtotal JPY 5,936.70\nShipping JPY 34.08\nTax JPY 445.25\nTotal JPY 6,416.03",
+    "injected_error": true,
+    "mutation": "currency",
+    "render": {
+      "case_id": "invoice-040-currency",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000139_invoice-040-currency.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "a27cedad99b12a05b27c7fa2504abd79f38ee213ef39be319ca21520dff7aa57"
+    }
+  },
+  {
+    "case_id": "invoice-040-consistent_amounts",
+    "source_id": "invoice-040",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-040-region.png",
+    "text": "Subtotal EUR 59,367.00\nShipping EUR 340.80\nTax EUR 4,452.50\nTotal EUR 64,160.30",
+    "injected_error": true,
+    "mutation": "consistent_amounts",
+    "render": {
+      "case_id": "invoice-040-consistent_amounts",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000140_invoice-040-consistent_amounts.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "6cf7143e30271fd0b903354b499d7022436610ff68c737a16b1396e555a5258d"
+    }
+  },
+  {
+    "case_id": "invoice-050-reference",
+    "source_id": "invoice-050",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-050-region.png",
+    "text": "Subtotal GBP 5,386.25\nShipping GBP 71.86\nTax GBP 403.97\nTotal GBP 5,862.08",
+    "injected_error": false,
+    "mutation": "reference",
+    "render": {
+      "case_id": "invoice-050-reference",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000141_invoice-050-reference.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "7ab8eb369707c29dd96ca70a1b5f59dfcfb73746afc398b070c21343ffa1c769"
+    }
+  },
+  {
+    "case_id": "invoice-050-total_digit",
+    "source_id": "invoice-050",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-050-region.png",
+    "text": "Subtotal GBP 5,386.25\nShipping GBP 71.86\nTax GBP 403.97\nTotal GBP 5,962.08",
+    "injected_error": true,
+    "mutation": "total_digit",
+    "render": {
+      "case_id": "invoice-050-total_digit",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000142_invoice-050-total_digit.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "16a97cf09c006e078d4d0dd5556c272c56699d5c8b1689ea580352ecce00ef84"
+    }
+  },
+  {
+    "case_id": "invoice-050-currency",
+    "source_id": "invoice-050",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-050-region.png",
+    "text": "Subtotal JPY 5,386.25\nShipping JPY 71.86\nTax JPY 403.97\nTotal JPY 5,862.08",
+    "injected_error": true,
+    "mutation": "currency",
+    "render": {
+      "case_id": "invoice-050-currency",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000143_invoice-050-currency.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "720e25e72971cf047564449b4e797a4185c5994bc8639c1cba0dab963ed039ff"
+    }
+  },
+  {
+    "case_id": "invoice-050-consistent_amounts",
+    "source_id": "invoice-050",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-050-region.png",
+    "text": "Subtotal GBP 53,862.50\nShipping GBP 718.60\nTax GBP 4,039.70\nTotal GBP 58,620.80",
+    "injected_error": true,
+    "mutation": "consistent_amounts",
+    "render": {
+      "case_id": "invoice-050-consistent_amounts",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000144_invoice-050-consistent_amounts.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "ca28b51722bb85389323cd40902f3824b153aa4d15a90532a3a88942b5d28f04"
+    }
+  },
+  {
+    "case_id": "invoice-060-reference",
+    "source_id": "invoice-060",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-060-region.png",
+    "text": "Subtotal USD 6,952.02\nShipping USD 59.38\nTax USD 521.40\nTotal USD 7,532.80",
+    "injected_error": false,
+    "mutation": "reference",
+    "render": {
+      "case_id": "invoice-060-reference",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000145_invoice-060-reference.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "9533f319adbc78e891d2b9db6f827ebcf714d9c9bec5f0269c83ce03c0d5e0a3"
+    }
+  },
+  {
+    "case_id": "invoice-060-total_digit",
+    "source_id": "invoice-060",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-060-region.png",
+    "text": "Subtotal USD 6,952.02\nShipping USD 59.38\nTax USD 521.40\nTotal USD 7,632.80",
+    "injected_error": true,
+    "mutation": "total_digit",
+    "render": {
+      "case_id": "invoice-060-total_digit",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000146_invoice-060-total_digit.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "65524a9c781063a518734985e26f6950fa80b072185d9da66ca7f6460aa7fa01"
+    }
+  },
+  {
+    "case_id": "invoice-060-currency",
+    "source_id": "invoice-060",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-060-region.png",
+    "text": "Subtotal JPY 6,952.02\nShipping JPY 59.38\nTax JPY 521.40\nTotal JPY 7,532.80",
+    "injected_error": true,
+    "mutation": "currency",
+    "render": {
+      "case_id": "invoice-060-currency",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000147_invoice-060-currency.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "7505b85f310407734a44e1cfccedcfb60c57b7e3e00da6bed2055f253fa6b971"
+    }
+  },
+  {
+    "case_id": "invoice-060-consistent_amounts",
+    "source_id": "invoice-060",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-060-region.png",
+    "text": "Subtotal USD 69,520.20\nShipping USD 593.80\nTax USD 5,214.00\nTotal USD 75,328.00",
+    "injected_error": true,
+    "mutation": "consistent_amounts",
+    "render": {
+      "case_id": "invoice-060-consistent_amounts",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000148_invoice-060-consistent_amounts.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "0df833108c821491b79636ff89924f4c9070340df165d84d3039d1abd39bc3e2"
+    }
+  },
+  {
+    "case_id": "invoice-070-reference",
+    "source_id": "invoice-070",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-070-region.png",
+    "text": "Subtotal EUR 3,747.26\nShipping EUR 91.65\nTax EUR 281.04\nTotal EUR 4,119.95",
+    "injected_error": false,
+    "mutation": "reference",
+    "render": {
+      "case_id": "invoice-070-reference",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000149_invoice-070-reference.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "b0d50fe34afe1b1deb88113ffee5b2ccc38dcceb10f25d4f7b9f32a92d191133"
+    }
+  },
+  {
+    "case_id": "invoice-070-total_digit",
+    "source_id": "invoice-070",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-070-region.png",
+    "text": "Subtotal EUR 3,747.26\nShipping EUR 91.65\nTax EUR 281.04\nTotal EUR 4,219.95",
+    "injected_error": true,
+    "mutation": "total_digit",
+    "render": {
+      "case_id": "invoice-070-total_digit",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000150_invoice-070-total_digit.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "916549fb797b46d66dcdf3ae7ca06168dd1756858e7efd44216487fa9f2d50da"
+    }
+  },
+  {
+    "case_id": "invoice-070-currency",
+    "source_id": "invoice-070",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-070-region.png",
+    "text": "Subtotal JPY 3,747.26\nShipping JPY 91.65\nTax JPY 281.04\nTotal JPY 4,119.95",
+    "injected_error": true,
+    "mutation": "currency",
+    "render": {
+      "case_id": "invoice-070-currency",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000151_invoice-070-currency.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "971bf3e3734952c96459ee4a7c504f0aeb898565be1ea4f77e244300abe902ca"
+    }
+  },
+  {
+    "case_id": "invoice-070-consistent_amounts",
+    "source_id": "invoice-070",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-070-region.png",
+    "text": "Subtotal EUR 37,472.60\nShipping EUR 916.50\nTax EUR 2,810.40\nTotal EUR 41,199.50",
+    "injected_error": true,
+    "mutation": "consistent_amounts",
+    "render": {
+      "case_id": "invoice-070-consistent_amounts",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000152_invoice-070-consistent_amounts.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "9cdc05a438fe7be88e98a304868746ee2874b5090ba16875ff13fc2a48f7aa71"
+    }
+  },
+  {
+    "case_id": "invoice-080-reference",
+    "source_id": "invoice-080",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-080-region.png",
+    "text": "Subtotal GBP 6,525.99\nShipping GBP 57.41\nTax GBP 489.45\nTotal GBP 7,072.85",
+    "injected_error": false,
+    "mutation": "reference",
+    "render": {
+      "case_id": "invoice-080-reference",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000153_invoice-080-reference.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "f0392f47d0834c0d8d6d346c6297e970ddc4a0f748fa0c8ce3b0fa64d2de5dda"
+    }
+  },
+  {
+    "case_id": "invoice-080-total_digit",
+    "source_id": "invoice-080",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-080-region.png",
+    "text": "Subtotal GBP 6,525.99\nShipping GBP 57.41\nTax GBP 489.45\nTotal GBP 7,172.85",
+    "injected_error": true,
+    "mutation": "total_digit",
+    "render": {
+      "case_id": "invoice-080-total_digit",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000154_invoice-080-total_digit.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "c8d6aa897e450a09284785806cbfaddc58418b72d1e64febd4b30438fcfa9634"
+    }
+  },
+  {
+    "case_id": "invoice-080-currency",
+    "source_id": "invoice-080",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-080-region.png",
+    "text": "Subtotal JPY 6,525.99\nShipping JPY 57.41\nTax JPY 489.45\nTotal JPY 7,072.85",
+    "injected_error": true,
+    "mutation": "currency",
+    "render": {
+      "case_id": "invoice-080-currency",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000155_invoice-080-currency.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "b623dba0cf42f66d499a7cdc90989d267870dcbd09983b713945f0865831f184"
+    }
+  },
+  {
+    "case_id": "invoice-080-consistent_amounts",
+    "source_id": "invoice-080",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-080-region.png",
+    "text": "Subtotal GBP 65,259.90\nShipping GBP 574.10\nTax GBP 4,894.50\nTotal GBP 70,728.50",
+    "injected_error": true,
+    "mutation": "consistent_amounts",
+    "render": {
+      "case_id": "invoice-080-consistent_amounts",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000156_invoice-080-consistent_amounts.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "63f3314b8145a86181e46c8748f6a09f0196d5f50d86b988bcaf08a125b21873"
+    }
+  },
+  {
+    "case_id": "invoice-090-reference",
+    "source_id": "invoice-090",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-090-region.png",
+    "text": "Subtotal USD 3,961.40\nShipping USD 13.48\nTax USD 297.10\nTotal USD 4,271.98",
+    "injected_error": false,
+    "mutation": "reference",
+    "render": {
+      "case_id": "invoice-090-reference",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000157_invoice-090-reference.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "e9e6c253fa9f806bbab84aaa0cafbf8b0008e996f5a11fef1ea0ca8a2f84c4f0"
+    }
+  },
+  {
+    "case_id": "invoice-090-total_digit",
+    "source_id": "invoice-090",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-090-region.png",
+    "text": "Subtotal USD 3,961.40\nShipping USD 13.48\nTax USD 297.10\nTotal USD 4,371.98",
+    "injected_error": true,
+    "mutation": "total_digit",
+    "render": {
+      "case_id": "invoice-090-total_digit",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000158_invoice-090-total_digit.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "9c3ded98fc85a3b9b024594ed218c7b07f70cc60bd54f2106cef102f05633209"
+    }
+  },
+  {
+    "case_id": "invoice-090-currency",
+    "source_id": "invoice-090",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-090-region.png",
+    "text": "Subtotal JPY 3,961.40\nShipping JPY 13.48\nTax JPY 297.10\nTotal JPY 4,271.98",
+    "injected_error": true,
+    "mutation": "currency",
+    "render": {
+      "case_id": "invoice-090-currency",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000159_invoice-090-currency.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "bf49885b3531481f0a30996c284ef25f4841cf0b184721051193e202d43805c8"
+    }
+  },
+  {
+    "case_id": "invoice-090-consistent_amounts",
+    "source_id": "invoice-090",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-090-region.png",
+    "text": "Subtotal USD 39,614.00\nShipping USD 134.80\nTax USD 2,971.00\nTotal USD 42,719.80",
+    "injected_error": true,
+    "mutation": "consistent_amounts",
+    "render": {
+      "case_id": "invoice-090-consistent_amounts",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000160_invoice-090-consistent_amounts.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "eff1d8e1cecc7b1c23e48c33e9d92bdbb0d6ca09a132be98198b07d2a2d06430"
+    }
+  },
+  {
+    "case_id": "invoice-100-reference",
+    "source_id": "invoice-100",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-100-region.png",
+    "text": "Subtotal EUR 1,982.99\nShipping EUR 43.97\nTax EUR 148.72\nTotal EUR 2,175.68",
+    "injected_error": false,
+    "mutation": "reference",
+    "render": {
+      "case_id": "invoice-100-reference",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000161_invoice-100-reference.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "795b4249de6e1b7316f6cb532948b42a2c1e20d44c121e0f0119bafedfbb9cb3"
+    }
+  },
+  {
+    "case_id": "invoice-100-total_digit",
+    "source_id": "invoice-100",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-100-region.png",
+    "text": "Subtotal EUR 1,982.99\nShipping EUR 43.97\nTax EUR 148.72\nTotal EUR 2,275.68",
+    "injected_error": true,
+    "mutation": "total_digit",
+    "render": {
+      "case_id": "invoice-100-total_digit",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000162_invoice-100-total_digit.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "1e23df490c43f0cde9388f28c909fc963ed4e05dfeb86a7979ca74c0d4ebc599"
+    }
+  },
+  {
+    "case_id": "invoice-100-currency",
+    "source_id": "invoice-100",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-100-region.png",
+    "text": "Subtotal JPY 1,982.99\nShipping JPY 43.97\nTax JPY 148.72\nTotal JPY 2,175.68",
+    "injected_error": true,
+    "mutation": "currency",
+    "render": {
+      "case_id": "invoice-100-currency",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000163_invoice-100-currency.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "9bc4048ea68af59bfb4f9cc15e3c2c6ca2c9713c0c9cc214a125e17aa2eeae46"
+    }
+  },
+  {
+    "case_id": "invoice-100-consistent_amounts",
+    "source_id": "invoice-100",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-100-region.png",
+    "text": "Subtotal EUR 19,829.90\nShipping EUR 439.70\nTax EUR 1,487.20\nTotal EUR 21,756.80",
+    "injected_error": true,
+    "mutation": "consistent_amounts",
+    "render": {
+      "case_id": "invoice-100-consistent_amounts",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000164_invoice-100-consistent_amounts.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "dbf7d3ba197477c66f4ee8e97bb82bac9c594549feb1067c74dfab69bf153988"
+    }
+  },
+  {
+    "case_id": "invoice-110-reference",
+    "source_id": "invoice-110",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-110-region.png",
+    "text": "Subtotal GBP 9,666.55\nShipping GBP 62.24\nTax GBP 724.99\nTotal GBP 10,453.78",
+    "injected_error": false,
+    "mutation": "reference",
+    "render": {
+      "case_id": "invoice-110-reference",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000165_invoice-110-reference.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "c9d413eea0f46c28eec914698a2081724edb602d06305131832479b6f271316e"
+    }
+  },
+  {
+    "case_id": "invoice-110-total_digit",
+    "source_id": "invoice-110",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-110-region.png",
+    "text": "Subtotal GBP 9,666.55\nShipping GBP 62.24\nTax GBP 724.99\nTotal GBP 10,553.78",
+    "injected_error": true,
+    "mutation": "total_digit",
+    "render": {
+      "case_id": "invoice-110-total_digit",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000166_invoice-110-total_digit.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "7e15d42a8bffe7748ce7829adb0060a36c468497b6b52d4b3b12e6757062e105"
+    }
+  },
+  {
+    "case_id": "invoice-110-currency",
+    "source_id": "invoice-110",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-110-region.png",
+    "text": "Subtotal JPY 9,666.55\nShipping JPY 62.24\nTax JPY 724.99\nTotal JPY 10,453.78",
+    "injected_error": true,
+    "mutation": "currency",
+    "render": {
+      "case_id": "invoice-110-currency",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000167_invoice-110-currency.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "c86644182999a7e26c49af1185f1f3b84e461e3cf744b64cb3c4561e921b1eaa"
+    }
+  },
+  {
+    "case_id": "invoice-110-consistent_amounts",
+    "source_id": "invoice-110",
+    "set": "stress",
+    "category": "text",
+    "image_path": "data/synthetic/invoice-110-region.png",
+    "text": "Subtotal GBP 96,665.50\nShipping GBP 622.40\nTax GBP 7,249.90\nTotal GBP 104,537.80",
+    "injected_error": true,
+    "mutation": "consistent_amounts",
+    "render": {
+      "case_id": "invoice-110-consistent_amounts",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000168_invoice-110-consistent_amounts.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "040ec9eb20095f1d72bdbfabd8a09bc5be6ec1575d016a000426162c53a77f59"
+    }
+  },
+  {
+    "case_id": "upstream-01_text_putnam-0",
+    "set": "upstream",
+    "category": "text",
+    "image_path": "vendor/MiniCPM-OCR/scripts/minicpm-ocr-jev/examples/01_text_putnam/block.png",
+    "text": "(a) $0 \\in S$;\n(b) If $x \\in S$ then $x + 1 \\in S$ and $x - 1 \\in S$; and\n(c) If $x \\in S$ and $x \\notin \\{0, 1\\}$, then $\\frac{1}{x(x-1)} \\in S$.",
+    "expected_prob_yes": 0.99501,
+    "render": {
+      "case_id": "upstream-01_text_putnam-0",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000169_upstream-01_text_putnam-0.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "f1f93c506e64f330190cac2c52daf5a445a7fe758fa033cc324455a6f19dbc19"
+    }
+  },
+  {
+    "case_id": "upstream-01_text_putnam-1",
+    "set": "upstream",
+    "category": "text",
+    "image_path": "vendor/MiniCPM-OCR/scripts/minicpm-ocr-jev/examples/01_text_putnam/block.png",
+    "text": "(a)(b) If    x \\in S    then    x + 1 \\in S    and    x - 1 \\in S   ; and\\[ 0 \\in S;\\]\\[ (\\mathrm{c}) \\text{ If }x\\in S \\text{ and }x\\not\\in\\{0,1\\}, \\text{ then } \\frac{1}{x(x-1)}\\in S.\\]",
+    "expected_prob_yes": 0.00702,
+    "render": {
+      "case_id": "upstream-01_text_putnam-1",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000170_upstream-01_text_putnam-1.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "6f3891df39a157cdef3b017a2fd12e8cfdc7f7e128301d769c46cf20457890d3"
+    }
+  },
+  {
+    "case_id": "upstream-02_formula_putnam-0",
+    "set": "upstream",
+    "category": "formula",
+    "image_path": "vendor/MiniCPM-OCR/scripts/minicpm-ocr-jev/examples/02_formula_putnam/block.png",
+    "text": "$$P''(x) = (k^2 - k)x^{k-2}R(x) + 2kx^{k-1}R'(x) + x^kR''(x).$$",
+    "expected_prob_yes": 0.96813,
+    "render": {
+      "case_id": "upstream-02_formula_putnam-0",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000171_upstream-02_formula_putnam-0.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "59098187d80638e87caeb4b35dd0475c871a77313ad82bb09a5e27dd0357a238"
+    }
+  },
+  {
+    "case_id": "upstream-02_formula_putnam-1",
+    "set": "upstream",
+    "category": "formula",
+    "image_path": "vendor/MiniCPM-OCR/scripts/minicpm-ocr-jev/examples/02_formula_putnam/block.png",
+    "text": "\\[ P ^ {\\prime \\prime} (x) = \\left(k ^ {2} - k\\right) x ^ {k - 2} R (x) + 2 k x ^ {k - 1} R ^ {\\prime} (x) + x ^ {k} R ^ {\\prime \\prime} (x). \\]",
+    "expected_prob_yes": 0.96552,
+    "render": {
+      "case_id": "upstream-02_formula_putnam-1",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000172_upstream-02_formula_putnam-1.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "70f273a2416fabb6d93e5d0941da2fef588e589dba7985daaa0d89c1dd58f145"
+    }
+  },
+  {
+    "case_id": "upstream-03_table_gb_standard-0",
+    "set": "upstream",
+    "category": "table",
+    "image_path": "vendor/MiniCPM-OCR/scripts/minicpm-ocr-jev/examples/03_table_gb_standard/block.png",
+    "text": "<table><thead><tr><td></td><td>$\\Delta U$</td><td>持续时间</td></tr></thead><tbody><tr><td>电压降落</td><td>30%</td><td>0.5s</td></tr><tr><td></td><td>60%</td><td>0.5s</td></tr><tr><td>电压切断</td><td>100%</td><td>电源波形一个周期</td></tr><tr><td></td><td></td><td>0.5s</td></tr><tr><td></td><td></td><td>60.0s</td></tr></tbody></table>",
+    "expected_prob_yes": 0.04075,
+    "render": {
+      "case_id": "upstream-03_table_gb_standard-0",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000173_upstream-03_table_gb_standard-0.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "555bf0044d9a445ad781a9600b63efff6ceb49c2cd5b92b4939e36ccaa6c81ed"
+    }
+  },
+  {
+    "case_id": "upstream-03_table_gb_standard-1",
+    "set": "upstream",
+    "category": "table",
+    "image_path": "vendor/MiniCPM-OCR/scripts/minicpm-ocr-jev/examples/03_table_gb_standard/block.png",
+    "text": "<table><tr><td></td><td>ΔU</td><td>持续时间</td></tr><tr><td rowspan=\"2\">电压降落</td><td>30%</td><td>0.5a</td></tr><tr><td>60%</td><td>0.5a</td></tr><tr><td rowspan=\"3\">电压倒落</td><td rowspan=\"3\">100%</td><td>电源波形一个周期</td></tr><tr><td>0.5a</td></tr><tr><td>60.0a</td></tr></table>",
+    "expected_prob_yes": 0.00116,
+    "render": {
+      "case_id": "upstream-03_table_gb_standard-1",
+      "ok": true,
+      "render_image_path": "results/rendered/render/label_images/00000174_upstream-03_table_gb_standard-1.png",
+      "reason": null,
+      "katex_errors": [],
+      "detail": null,
+      "render_sha256": "547530749f8cbf99bc6c6ecf2e422d222dfa5de3f88ac8fc27a3b7eb7d31a1da"
+    }
+  }
+]

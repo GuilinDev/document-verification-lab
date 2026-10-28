@@ -1,0 +1,13 @@
+{
+  "upstream_revision": "b33b474136088dc43a2341e94590c804ec0c16a5",
+  "batch_seconds": 34.17343661375344,
+  "candidate_count": 174,
+  "success": 174,
+  "pinned_packages": {
+    "playwright": "1.62.0",
+    "Pillow": "12.3.0",
+    "Markdown": "3.10.3"
+  },
+  "font_environment": "DGX host fonts; not the exact reference Docker font set",
+  "parallelism": 3
+}

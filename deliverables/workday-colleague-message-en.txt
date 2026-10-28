@@ -1,0 +1,14 @@
+I've been exploring a small personal prototype around supplier-invoice intake: Document Verification Lab.
+
+It uses two released OpenBMB models. MiniCPM-OCR reads a supplied invoice region. MiniCPM-OCR Jev is a separate 2B visual classifier that compares the original pixels, the extracted text and a rendered version of that text, then returns a consistency score. Unlike the text-only Jev decision API from my earlier experiments, this verifier can compare a candidate directly with visual evidence. I haven't fine-tuned either model.
+
+The main lesson was about evaluation. On 80 held-out synthetic invoice regions, arithmetic and field rules already caught all 3 natural OCR errors. Adding the verifier produced 13 additional reviews of correct results. In a separate set of 24 deliberate currency/amount substitutions that stayed internally consistent, the verifier caught all 24 that the rules missed.
+
+The potential application is an evidence-backed review queue: retain the source crop beside each extracted value, test whether the verifier catches errors our existing checks miss, and keep PO/receipt validation separate. This is a personal experiment with generated documents, with no Workday tenant or customer data.
+
+Interactive lab: https://huggingface.co/spaces/guilindev/document-verification-lab
+Code, data and evaluation: https://github.com/GuilinDev/document-verification-lab
+Workday's public workflow overview: https://www.workday.com/en-us/perspectives/finance/what-is-automated-invoice-processing.html
+Upstream verifier: https://huggingface.co/openbmb/MiniCPM-OCR-Jev
+
+I'd be interested in feedback on which document exceptions would make a representative evaluation for this kind of additional visual check.

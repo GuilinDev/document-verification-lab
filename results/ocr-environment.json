@@ -1,0 +1,11 @@
+{
+  "torch": "2.13.0+cu130",
+  "transformers": "5.21.0",
+  "python": "3.12.3",
+  "gpu": "NVIDIA GB10",
+  "model_load_seconds": 19.89900375297293,
+  "loading_info": "{'missing_keys': set(), 'unexpected_keys': set(), 'mismatched_keys': set(), 'error_msgs': []}",
+  "shared_gpu": true,
+  "decoding": "greedy; max_new_tokens=256; no DSpark",
+  "model_revision": "165531f9ead5c7f09fba35a9a89fd2e255acf99a"
+}

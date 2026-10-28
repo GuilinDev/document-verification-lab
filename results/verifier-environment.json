@@ -1,0 +1,14 @@
+{
+  "backend": "Transformers native Qwen3_5ForSequenceClassification, not vLLM",
+  "torch": "2.13.0+cu130",
+  "transformers": "5.21.0",
+  "python": "3.12.3",
+  "gpu": "NVIDIA GB10",
+  "model_load_seconds": 41.41537397308275,
+  "loading_info": "{'missing_keys': set(), 'unexpected_keys': set(), 'mismatched_keys': set(), 'error_msgs': []}",
+  "prompt_template_md5": "9aab68e8ba8ab4da17ba9752bddb199c",
+  "num_labels": 2,
+  "shared_gpu": true,
+  "score_definition": "softmax(logits)[1] at the last nonpadding token; no posthoc calibration",
+  "model_revision": "56960237f0569eed11983fccfdc411c97d5db906"
+}

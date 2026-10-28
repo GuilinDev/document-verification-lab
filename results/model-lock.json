@@ -1,0 +1,10 @@
+{
+  "MiniCPM-OCR-1.0": {
+    "repo_id": "openbmb/MiniCPM-OCR-1.0",
+    "revision": "165531f9ead5c7f09fba35a9a89fd2e255acf99a"
+  },
+  "MiniCPM-OCR-Jev": {
+    "repo_id": "openbmb/MiniCPM-OCR-Jev",
+    "revision": "56960237f0569eed11983fccfdc411c97d5db906"
+  }
+}

@@ -1,0 +1,9 @@
+# Install an appropriate CUDA PyTorch build separately.
+transformers==5.21.0
+accelerate
+huggingface_hub
+safetensors
+Pillow
+einops
+timm
+numpy

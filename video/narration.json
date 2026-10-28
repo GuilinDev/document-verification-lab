@@ -1,0 +1,8 @@
+[
+  "An invoice can pass a calculation check and still contain the wrong numbers. I built Document Verification Lab to see what an independent visual check adds to document automation. Start with this generated invoice and its payment details.",
+  "For a controlled stress test, I multiply every amount by ten. Subtotal, shipping and tax still add up to the total, so the arithmetic check passes. Comparing the extracted values with the original page reveals the problem.",
+  "OpenBMB's MiniCPM OCR Jev takes the source image, candidate text, and a rendered copy of that text. Its two-billion-parameter classifier returns a consistency score. Higher means stronger predicted agreement with the pixels. Here, the score drops from about zero point nine eight to zero point zero zero seven.",
+  "I also ran real OCR on one hundred and twenty generated invoices. Forty set the review threshold; eighty were held out. Rules caught all three test errors. Adding the verifier sent thirteen correct results to review, without catching another error.",
+  "The separate stress tests tell a different story. All twenty-four internally consistent currency and amount changes passed the rules. The visual verifier flagged every one. That gives us a specific capability to investigate on representative documents.",
+  "For supplier-invoice workflows, I would keep the source evidence attached, measure the extra errors caught per review, and check purchase orders separately. You can inspect every case and change the threshold in the open lab. The code, inputs and results are public."
+]
