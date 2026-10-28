@@ -6,6 +6,8 @@ A reproducible personal experiment by Guilin Zhang: run OpenBMB's MiniCPM-OCR on
 
 [Interactive lab](https://huggingface.co/spaces/guilindev/document-verification-lab) · [90-second walkthrough](https://huggingface.co/spaces/guilindev/document-verification-lab/resolve/main/walkthrough.mp4) · [Evidence JSON](site/evidence.json) · [Frozen experiment design](EXPERIMENT.md) · [Results](results/summary.json)
 
+![Published interactive lab](deliverables/hf-published.png)
+
 ## What the experiment found
 
 On **80 held-out invoice regions**, OCR made **3 critical-field errors**. Arithmetic rules caught all three. Adding the verifier at a threshold selected on 40 separate calibration regions sent **16/80** to review, including **13 correct items**, and caught no additional natural errors.
