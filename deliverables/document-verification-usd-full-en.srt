@@ -1,0 +1,167 @@
+1
+00:00:00,497 --> 00:00:03,115
+An invoice can pass every arithmetic check
+
+2
+00:00:03,155 --> 00:00:05,081
+and still contain the wrong amounts.
+
+3
+00:00:05,182 --> 00:00:06,100
+Let me show you.
+
+4
+00:00:06,213 --> 00:00:07,884
+I upload a dollar invoice.
+
+5
+00:00:07,985 --> 00:00:12,593
+MiniCPM-OCR reads its payment region into editable fields,
+
+6
+00:00:12,633 --> 00:00:14,256
+keeping the source beside them.
+
+7
+00:00:14,356 --> 00:00:17,326
+Now I deliberately multiply every amount by ten.
+
+8
+00:00:17,427 --> 00:00:20,032
+Subtotal, shipping and tax still add up.
+
+9
+00:00:20,145 --> 00:00:21,355
+The rules pass,
+
+10
+00:00:21,407 --> 00:00:24,013
+although the original total is clearly different.
+
+11
+00:00:24,114 --> 00:00:26,622
+OCR Jev checks this against the page.
+
+12
+00:00:26,723 --> 00:00:29,656
+It receives the source image, the candidate text,
+
+13
+00:00:29,696 --> 00:00:31,780
+and an image rendered from that text.
+
+14
+00:00:31,881 --> 00:00:34,280
+That rendered copy makes the claimed content
+
+15
+00:00:34,320 --> 00:00:35,882
+visible for comparison.
+
+16
+00:00:35,983 --> 00:00:39,923
+Inside the model, the inputs become a shared representation.
+
+17
+00:00:40,024 --> 00:00:42,848
+A small classification head scores two outcomes:
+
+18
+00:00:42,888 --> 00:00:44,875
+consistent and inconsistent.
+
+19
+00:00:44,975 --> 00:00:47,363
+It returns a consistency score directly.
+
+20
+00:00:47,463 --> 00:00:50,299
+Higher scores mean stronger agreement with the source.
+
+21
+00:00:50,412 --> 00:00:53,916
+The correct candidate scores nearly 0.99.
+
+22
+00:00:54,016 --> 00:00:57,969
+Our altered candidate scores just 0.004.
+
+23
+00:00:58,070 --> 00:00:59,826
+We compare that score with a threshold
+
+24
+00:00:59,866 --> 00:01:02,545
+chosen on separate calibration examples.
+
+25
+00:01:02,645 --> 00:01:04,802
+This invoice enters the review queue.
+
+26
+00:01:04,902 --> 00:01:06,683
+The reviewer opens its source,
+
+27
+00:01:06,723 --> 00:01:08,358
+restores the correct amounts,
+
+28
+00:01:08,398 --> 00:01:09,935
+and confirms the correction.
+
+29
+00:01:10,084 --> 00:01:12,799
+For accounts payable, the corrected fields can continue
+
+30
+00:01:12,839 --> 00:01:15,372
+to purchase order matching and approval,
+
+31
+00:01:15,412 --> 00:01:16,914
+with their evidence attached.
+
+32
+00:01:17,026 --> 00:01:20,045
+I also tested whether this extra model actually helps.
+
+33
+00:01:20,145 --> 00:01:22,350
+On eighty held out synthetic invoices,
+
+34
+00:01:22,390 --> 00:01:24,851
+rules caught all three natural errors.
+
+35
+00:01:24,963 --> 00:01:27,059
+The verifier added thirteen reviews
+
+36
+00:01:27,099 --> 00:01:28,843
+and caught no extra errors.
+
+37
+00:01:28,944 --> 00:01:30,421
+In a separate stress test,
+
+38
+00:01:30,461 --> 00:01:33,576
+it flagged all twenty four deliberately altered candidates
+
+39
+00:01:33,616 --> 00:01:34,948
+that passed the rules.
+
+40
+00:01:35,060 --> 00:01:38,516
+The useful measure is errors caught per unit of review work.
+
+41
+00:01:38,616 --> 00:01:41,100
+The online lab lets you inspect every case
+
+42
+00:01:41,140 --> 00:01:43,101
+and explore that tradeoff yourself.

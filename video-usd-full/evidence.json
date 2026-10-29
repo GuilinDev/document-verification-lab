@@ -1,0 +1,144 @@
+[
+  {
+    "id": "invoice-090",
+    "template_family": 9,
+    "split": "test",
+    "condition": "clean",
+    "page": "assets/invoice-090-page.png",
+    "region": "assets/invoice-090-region.png",
+    "region_bbox": [
+      540,
+      1040,
+      1400,
+      1380
+    ],
+    "reference_text": "Subtotal USD 3,961.40\nShipping USD 13.48\nTax USD 297.10\nTotal USD 4,271.98",
+    "reference_fields": {
+      "subtotal": 396140,
+      "shipping": 1348,
+      "tax": 29710,
+      "total": 427198,
+      "currency": "USD"
+    },
+    "page_sha256": "7a911e87aa295e2dce90481ed92cdefbee845e18c52874268d9d986fcab31b2b",
+    "region_sha256": "6ef8eee985e5dfaaddd445014227cb655abd7cc9ce6c9037e3604e3d756cf2e9",
+    "purchase_order": {
+      "currency": "USD",
+      "subtotal": 396140,
+      "quantities": [
+        22,
+        8,
+        12
+      ]
+    },
+    "items": [
+      {
+        "description": "Inspection kit",
+        "quantity": 22,
+        "unit_price": 3264
+      },
+      {
+        "description": "Replacement filter",
+        "quantity": 8,
+        "unit_price": 2314
+      },
+      {
+        "description": "Cable assembly",
+        "quantity": 12,
+        "unit_price": 25485
+      }
+    ],
+    "case_id": "invoice-090-reference",
+    "source_id": "invoice-090",
+    "set": "stress",
+    "category": "text",
+    "text": "Subtotal USD 3,961.40\nShipping USD 13.48\nTax USD 297.10\nTotal USD 4,271.98",
+    "injected_error": false,
+    "mutation": "reference",
+    "extracted": {
+      "subtotal": 396140,
+      "shipping": 1348,
+      "tax": 29710,
+      "total": 427198,
+      "currency": "USD"
+    },
+    "rule_issues": [],
+    "correct": true,
+    "score": 0.9874721169471741,
+    "verifier_ms": 489.2320428043604,
+    "verifier_total_ms": 521.0562748834491,
+    "render_image": "assets/00000157_invoice-090-reference.png",
+    "ocr_ms": 3100.345283281058
+  },
+  {
+    "id": "invoice-090",
+    "template_family": 9,
+    "split": "test",
+    "condition": "clean",
+    "page": "assets/invoice-090-page.png",
+    "region": "assets/invoice-090-region.png",
+    "region_bbox": [
+      540,
+      1040,
+      1400,
+      1380
+    ],
+    "reference_text": "Subtotal USD 3,961.40\nShipping USD 13.48\nTax USD 297.10\nTotal USD 4,271.98",
+    "reference_fields": {
+      "subtotal": 396140,
+      "shipping": 1348,
+      "tax": 29710,
+      "total": 427198,
+      "currency": "USD"
+    },
+    "page_sha256": "7a911e87aa295e2dce90481ed92cdefbee845e18c52874268d9d986fcab31b2b",
+    "region_sha256": "6ef8eee985e5dfaaddd445014227cb655abd7cc9ce6c9037e3604e3d756cf2e9",
+    "purchase_order": {
+      "currency": "USD",
+      "subtotal": 396140,
+      "quantities": [
+        22,
+        8,
+        12
+      ]
+    },
+    "items": [
+      {
+        "description": "Inspection kit",
+        "quantity": 22,
+        "unit_price": 3264
+      },
+      {
+        "description": "Replacement filter",
+        "quantity": 8,
+        "unit_price": 2314
+      },
+      {
+        "description": "Cable assembly",
+        "quantity": 12,
+        "unit_price": 25485
+      }
+    ],
+    "case_id": "invoice-090-consistent_amounts",
+    "source_id": "invoice-090",
+    "set": "stress",
+    "category": "text",
+    "text": "Subtotal USD 39,614.00\nShipping USD 134.80\nTax USD 2,971.00\nTotal USD 42,719.80",
+    "injected_error": true,
+    "mutation": "consistent_amounts",
+    "extracted": {
+      "subtotal": 3961400,
+      "shipping": 13480,
+      "tax": 297100,
+      "total": 4271980,
+      "currency": "USD"
+    },
+    "rule_issues": [],
+    "correct": false,
+    "score": 0.004264634568244219,
+    "verifier_ms": 477.6882561855018,
+    "verifier_total_ms": 510.5921570211649,
+    "render_image": "assets/00000160_invoice-090-consistent_amounts.png",
+    "ocr_ms": 3100.345283281058
+  }
+]

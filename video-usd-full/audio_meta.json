@@ -1,0 +1,19 @@
+{
+  "duration": 105,
+  "voice_end": 102.85145800000001,
+  "delay": 0.4,
+  "music_gain": 0.025,
+  "music_speech_band_cut": {
+    "frequency": 2200,
+    "q": 0.8,
+    "gain_db": -5
+  },
+  "click_times": [
+    6.913125000000001,
+    15.656291000000001,
+    64.702416,
+    67.22283300000001,
+    68.89758300000001
+  ],
+  "music_included": true
+}

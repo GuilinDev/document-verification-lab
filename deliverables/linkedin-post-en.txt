@@ -1,24 +1,20 @@
-The numbers added up. The invoice was still wrong.
+The invoice says $4,271.98. The extracted fields say $42,719.80. Every arithmetic check passes.
 
-I built a small Document Verification Lab to explore a question behind document automation: how much does a visual verifier add after the checks we already have?
+I deliberately multiplied all four amounts by ten to test a gap in document automation: correct arithmetic can still disagree with the page.
 
-The setup uses OpenBMB's MiniCPM-OCR to read invoice regions and its 2B OCR Jev model to compare the source pixels, candidate text and a rendered copy of that text. The verifier returns a consistency score, which can help route questionable results to review.
+My open Document Verification Lab combines MiniCPM-OCR with OpenBMB's 2B OCR Jev. The verifier compares the original image, candidate text and a rendered copy. A classification head converts that comparison into a consistency score for review routing.
 
-I ran it on 120 generated invoices: 40 for choosing a review threshold and 80 held out.
+The video follows one dollar invoice from upload to human correction, then shows how corrected fields could feed PO matching and approval.
 
-The result that mattered most: simple rules caught all 3 natural errors in the test set. Adding the verifier sent 13 correct results to review and caught no additional errors.
+The results:
+• On 80 held-out synthetic invoices, rules caught all 3 natural errors. The verifier added 13 reviews and caught no extra errors.
+• In a separate stress test, it flagged all 24 deliberately altered candidates that passed the rules.
 
-Then I tested a different failure mode separately: change every currency label, or multiply every amount by ten. The arithmetic still works. Rules missed all 24 of these deliberately altered candidates; the visual verifier flagged all 24.
+My takeaway: measure extra errors caught alongside extra review work. That's what determines whether another model earns its place.
 
-My takeaway: evaluate a new model against what your workflow already knows. Count the extra errors it catches and the extra reviews it creates. Keep designed stress tests separate from naturally occurring mistakes.
+Released models, no fine-tuning. Cases, scores and code are open.
 
-This feels relevant to supplier-invoice intake and other document workflows where an extracted value needs traceable evidence. Reading the page correctly is one check; matching a purchase order is another.
-
-The lab lets you inspect every case and move the threshold yourself. Inputs, raw scores, exact model revisions and evaluation code are public. This uses released models without fine-tuning.
-
-Try it: https://huggingface.co/spaces/guilindev/document-verification-lab
+Demo: https://huggingface.co/spaces/guilindev/document-verification-lab
 Code: https://github.com/GuilinDev/document-verification-lab
 
-Where have you seen a verification model add value beyond a strong rules baseline?
-
-#DocumentAI #MultimodalAI #Evaluation
+#DocumentAI #MultimodalAI #AIEvaluation

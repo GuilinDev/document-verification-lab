@@ -1,0 +1,19 @@
+An invoice can pass every arithmetic check and still contain the wrong amounts. Let me show you.
+
+I upload a dollar invoice. Mini CPM OCR reads its payment region into editable fields, keeping the source beside them.
+
+Now I deliberately multiply every amount by ten. Subtotal, shipping and tax still add up. The rules pass, although the original total is clearly different.
+
+OCR Jev checks this against the page. It receives the source image, the candidate text, and an image rendered from that text. That rendered copy makes the claimed content visible for comparison.
+
+Inside the model, the inputs become a shared representation. A small classification head scores two outcomes: consistent and inconsistent. It returns a consistency score directly.
+
+Higher scores mean stronger agreement with the source. The correct candidate scores nearly zero point nine nine. Our altered candidate scores just zero point zero zero four.
+
+We compare that score with a threshold chosen on separate calibration examples. This invoice enters the review queue. The reviewer opens its source, restores the correct amounts, and confirms the correction.
+
+For accounts payable, the corrected fields can continue to purchase order matching and approval, with their evidence attached.
+
+I also tested whether this extra model actually helps. On eighty held out synthetic invoices, rules caught all three natural errors. The verifier added thirteen reviews and caught no extra errors. In a separate stress test, it flagged all twenty four deliberately altered candidates that passed the rules.
+
+The useful measure is errors caught per unit of review work. The online lab lets you inspect every case and explore that tradeoff yourself.

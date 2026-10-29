@@ -4,7 +4,7 @@
 
 A reproducible personal experiment by Guilin Zhang: run OpenBMB's MiniCPM-OCR on synthetic invoice regions, check the result with simple rules and MiniCPM-OCR Jev, and measure the extra human review each policy creates.
 
-[Interactive lab](https://huggingface.co/spaces/guilindev/document-verification-lab) · [90-second walkthrough](https://huggingface.co/spaces/guilindev/document-verification-lab/resolve/main/walkthrough.mp4) · [Evidence JSON](site/evidence.json) · [Frozen experiment design](EXPERIMENT.md) · [Results](results/summary.json)
+[Interactive lab](https://huggingface.co/spaces/guilindev/document-verification-lab) · [Full USD walkthrough · 1:45](https://huggingface.co/spaces/guilindev/document-verification-lab/resolve/main/walkthrough.mp4) · [Evidence JSON](site/evidence.json) · [Frozen experiment design](EXPERIMENT.md) · [Results](results/summary.json)
 
 ![Published interactive lab](deliverables/hf-published.png)
 
@@ -70,6 +70,36 @@ python -m http.server 3023 --directory site
 ```
 
 The HF Space is a static interactive replay of real recorded inference. It makes no live GPU calls. All 168 experiment candidates can be inspected; source images, generated text, candidate renders and scores are included.
+
+## Full USD video walkthrough
+
+The 105-second, 1080p film follows **DVL-0090**, the same USD case now selected by default in the lab. Its source total is **$4,271.98**. An explicitly injected tenfold amount change produces **$42,719.80** while preserving the arithmetic. The recorded consistency score changes from **0.9875** for the reference candidate to **0.0043** for the altered candidate.
+
+| Time | What the film shows |
+|---|---|
+| 0:00–0:24 | Upload, OCR, controlled amount mutation, and rules |
+| 0:24–0:47 | Source image + text + rendered text, then the binary classification head |
+| 0:47–1:10 | Score interpretation, review threshold, source comparison, and correction |
+| 1:10–1:17 | Corrected fields continuing toward PO matching and approval |
+| 1:17–1:45 | Natural versus injected evaluation results and the review-work tradeoff |
+
+The interface and reviewer actions are explanatory replays of recorded evidence. Highlights are UI annotations; they are not model saliency. The downstream business steps illustrate a possible integration. One continuous English voiceover connects the process, mechanism, and practical use.
+
+Editable source, narration, exact timing and media provenance: [video-usd-full](video-usd-full). [English subtitles](deliverables/document-verification-usd-full-en.srt) and [short LinkedIn post](deliverables/linkedin-post-en.txt) are included. The earlier film source remains in `video/`.
+
+To rebuild the full film with Python 3.11+ and Node.js 22+:
+
+```bash
+python -m venv .video-build
+# Activate .video-build for your shell.
+python -m pip install -r requirements-video.txt
+cd video-usd-full
+python build_full.py
+npx --yes hyperframes@0.8.140 check
+npx --yes hyperframes@0.8.140 render --quality delivery --fps 30 --output ../deliverables/document-verification-usd-full-en.mp4
+```
+
+The supplied voice MP3 and word timings make a fresh TTS call unnecessary. `python make_voice.py` regenerates them if you edit the narration; this requires internet access. The licensed standalone background track is excluded. Without it, the builder produces narration and clicks; to include your own licensed track, place it at `video-usd-full/assets/audio/ambient-piano.mp3` before building. The published synchronized film contains the original licensed music. These build dependencies are separate from the GPU inference environment.
 
 ## Reproduce inference
 

@@ -1,0 +1,31 @@
+{
+  "source_document": {
+    "origin": "Existing project-generated synthetic invoice DVL-0090",
+    "files": ["assets/evidence/invoice-090-page.png", "assets/evidence/invoice-090-region.png"],
+    "evidence": "evidence.json"
+  },
+  "candidate_images": {
+    "origin": "Existing evaluation renders from the same USD invoice experiment",
+    "files": ["assets/evidence/00000157_invoice-090-reference.png", "assets/evidence/00000160_invoice-090-consistent_amounts.png"]
+  },
+  "voice": {
+    "provider": "Edge TTS",
+    "voice": "en-US-AndrewNeural",
+    "script": "narration.txt",
+    "timing": "assets/audio/words.json",
+    "processing": "rate +3% at synthesis; original speech tempo preserved; 400ms delay in final mix"
+  },
+  "music": {
+    "title": "Ambient Piano Ambient Technology",
+    "creator": "AudioDollar",
+    "source": "https://pixabay.com/music/ambient-ambient-piano-ambient-technology-554832/",
+    "origin": "Reused local licensed asset from the original project video",
+    "raw_file": "assets/audio/ambient-piano.mp3",
+    "raw_asset_publication": false
+  },
+  "interface_cursor": {
+    "origin": "HyperFrames registry agent-cursor component, adapted for the authored workflow"
+  },
+  "clicks": {"origin": "Locally generated tones in build_full.py"},
+  "font": {"name": "Inter Variable", "license": "assets/fonts/OFL.txt"}
+}
